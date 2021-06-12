@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inventarioFod>
+    <Modalidad>
+        <M_01>ESTUDIANTE</M_01>
+        <M_02>DOCENTE</M_02>
+        <M_03>PREESCOLAR</M_03>
+    </Modalidad>
+    <Correos>
+        <C_01>randy.montoya@corporacionacs.com</C_01>
+	<C_02>randy.montoya3@gmail.com</C_02>
+    </Correos>
+</inventarioFod>

@@ -1,0 +1,8 @@
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\x86\Debug\InventarioFod.exe.config
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\x86\Debug\InventarioFod.exe
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\x86\Debug\InventarioFod.pdb
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\x86\Debug\InventarioFod.principal.resources
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\x86\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\x86\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\x86\Debug\InventarioFod.exe
+C:\Users\Randyms\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\x86\Debug\InventarioFod.pdb

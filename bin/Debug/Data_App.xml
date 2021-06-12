@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inventarioFod>
+    <Tipo_Reequipamiento>
+        <ti_Re_01>TD en contextos Indígenas</ti_Re_01>
+        <ti_Re_02>MULTIGRADO</ti_Re_02>
+        <ti_Re_03>REM@</ti_Re_03>
+    </Tipo_Reequipamiento>
+    <Carteles>
+        <ca_2011>2011</ca_2011>
+        <ca_2012>2012</ca_2012>
+        <ca_2013>2013</ca_2013>
+        <ca_2014>2014</ca_2014>
+        <ca_2015>2015</ca_2015>
+        <ca_2016>2016</ca_2016>
+    </Carteles>
+    <Equipos>
+        <E_01>HP 5103</E_01>
+        <E_02>HP PROBOOK 6360b</E_02>
+        <E_03>Dell LATITUDE E6330</E_03>
+        <E_04>DELL LATITUDE 2120</E_04>
+        <E_05>DELL LATITUDE 3330</E_05>
+        <E_06>HP PROBOOK 11 G1</E_06>
+        <E_07>HP PROBOOK 430 G2</E_07>
+        <E_08>HP PROBOOK 440 G3</E_08>
+    </Equipos>
+    <Modalidad>
+        <M_01>ESTUDIANTE</M_01>
+        <M_02>DOCENTE</M_02>
+        <M_03>PREESCOLAR</M_03>
+    </Modalidad>
+    <Estados>
+        <Es_1>BUEN ESTADO</Es_1>
+        <Es_2>MAL ESTADO</Es_2>
+    </Estados>
+</inventarioFod>

@@ -1,0 +1,765 @@
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+F:\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+F:\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2015\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\CircularProgressBar.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Data.SQLite.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\CircularProgressBar.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\Google.Protobuf.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Buffers.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Memory.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\WinFormAnimation.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Web.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFod\InventarioFod\bin\Debug\MySql.Web.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\EnvDTE.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\stdole.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\EnvDTE80.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\VSLangProj.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\VSLangProj80.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.MSXML.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.Build.Framework.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\VSLangProj2.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Cofiguraciones.Configuracion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Consultas.Consulta_Listado.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Impresion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.Form_Mail.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0 - copia\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.ListaCorreos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Telegram.Bot.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Cofiguraciones.Configuracion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Consultas.Consulta_Listado.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.Form_Mail.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.ListaCorreos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Impresion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.compiled
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Cofiguraciones.Configuracion.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Consultas.Consulta_Listado.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.Form_Mail.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Correo.ListaCorreos.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Form_Malas.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Impresion.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Informacion_Acciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.cache
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.compiled
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.application
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\DocumentFormat.OpenXml.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.pdb
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Telegram.Bot.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.application
+E:\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.cache
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.compiled
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.application
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.pdb
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Telegram.Bot.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.application
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+C:\Users\acs\Desktop\ACS\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.application
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.pdb
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Telegram.Bot.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.application
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+D:\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.config
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.application
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.exe
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\InventarioFod.pdb
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\DocumentFormat.OpenXml.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Google.Protobuf.pdb
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\MySql.Data.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Buffers.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Memory.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\Telegram.Bot.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\bin\Debug\WinFormAnimation.dll
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.config
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.AgregarLista.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Agregar_imp_list.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.CargarAcciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Cargar_Equipos_Acciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.principal.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Formularios.Listados.Agregar_lista_manual.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_Acciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.cache
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\RdlCompile.compiled
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.application
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.exe
+D:\8-7-19\Sistema_ACS_RANDY\InventarioFodVERSIONFINAL2.0\InventarioFod\obj\Debug\InventarioFod.pdb
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\InventarioFod.exe.config
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\InventarioFod.exe.manifest
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\InventarioFod.application
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\InventarioFod.exe
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\InventarioFod.pdb
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Google.Protobuf.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Google.Protobuf.pdb
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\MySql.Data.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\System.Buffers.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\System.Memory.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\Telegram.Bot.dll
+C:\Users\acs\Desktop\InventarioFod\bin\Debug\WinFormAnimation.dll
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.csprojAssemblyReference.cache
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.exe.config
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.cargar.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.principal.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.OpcionesDatos.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.OpcionesEdicion.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteEquiposProveedor.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Reportes.ReporteListados.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.csproj.GenerateResource.cache
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\RdlCompile.cache
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\RdlCompile.compiled
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.csproj.CoreCompileInputs.cache
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.exe.manifest
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.application
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.csproj.CopyComplete
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.exe
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.pdb
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\acs\Desktop\InventarioFod\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources

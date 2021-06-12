@@ -1,0 +1,1147 @@
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Google.Protobuf.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\MySql.Data.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\System.Buffers.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\System.Memory.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\Telegram.Bot.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\bin\Debug\WinFormAnimation.dll
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.principal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\RdlCompile.cache
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\RdlCompile.compiled
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+C:\Users\ACS\Desktop\PresentacionRandy\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\MySql.Data.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\System.Buffers.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\System.Memory.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\Telegram.Bot.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\bin\Debug\WinFormAnimation.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.principal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.compiled
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.config
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.application
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.pdb
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.pdb
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\MySql.Data.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\System.Buffers.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\System.Memory.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\Telegram.Bot.dll
+D:\PROGRAMARANDY\InventarioACS\bin\Debug\WinFormAnimation.dll
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.config
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.principal.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.cache
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.compiled
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.application
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe
+D:\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\MySql.Data.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\System.Buffers.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\System.Memory.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\Telegram.Bot.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\bin\Debug\WinFormAnimation.dll
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.config
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.principal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\RdlCompile.compiled
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.application
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.exe
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.pdb
+C:\Users\ACS\Desktop\PresentacionRandy\PROGRAMARANDY\PROGRAMARANDY\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\RdlCompile.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\RdlCompile.compiled
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\InventarioFod.exe.config
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Google.Protobuf.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\Telegram.Bot.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\bin\Debug\WinFormAnimation.dll
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.application
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.exe
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.pdb
+D:\InventarioACS\bin\Debug\InventarioFod.exe.config
+D:\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+D:\InventarioACS\bin\Debug\InventarioFod.application
+D:\InventarioACS\bin\Debug\InventarioFod.exe
+D:\InventarioACS\bin\Debug\InventarioFod.pdb
+D:\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\InventarioACS\bin\Debug\Google.Protobuf.dll
+D:\InventarioACS\bin\Debug\Google.Protobuf.pdb
+D:\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\InventarioACS\bin\Debug\MySql.Data.dll
+D:\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+D:\InventarioACS\bin\Debug\System.Buffers.dll
+D:\InventarioACS\bin\Debug\System.Memory.dll
+D:\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\InventarioACS\bin\Debug\Telegram.Bot.dll
+D:\InventarioACS\bin\Debug\WinFormAnimation.dll
+D:\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+D:\InventarioACS\obj\Debug\InventarioFod.exe.config
+D:\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+D:\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+D:\InventarioACS\obj\Debug\InventarioFod.principal.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+D:\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+D:\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+D:\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+D:\InventarioACS\obj\Debug\RdlCompile.cache
+D:\InventarioACS\obj\Debug\RdlCompile.compiled
+D:\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+D:\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+D:\InventarioACS\obj\Debug\InventarioFod.application
+D:\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+D:\InventarioACS\obj\Debug\InventarioFod.exe
+D:\InventarioACS\obj\Debug\InventarioFod.pdb
+E:\InventarioACS\bin\Debug\InventarioFod.exe.config
+E:\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+E:\InventarioACS\bin\Debug\InventarioFod.application
+E:\InventarioACS\bin\Debug\InventarioFod.exe
+E:\InventarioACS\bin\Debug\InventarioFod.pdb
+E:\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+E:\InventarioACS\bin\Debug\Google.Protobuf.dll
+E:\InventarioACS\bin\Debug\Google.Protobuf.pdb
+E:\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\InventarioACS\bin\Debug\MySql.Data.dll
+E:\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+E:\InventarioACS\bin\Debug\System.Buffers.dll
+E:\InventarioACS\bin\Debug\System.Memory.dll
+E:\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\InventarioACS\bin\Debug\Telegram.Bot.dll
+E:\InventarioACS\bin\Debug\WinFormAnimation.dll
+E:\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+E:\InventarioACS\obj\Debug\InventarioFod.exe.config
+E:\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+E:\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+E:\InventarioACS\obj\Debug\InventarioFod.principal.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+E:\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+E:\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+E:\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+E:\InventarioACS\obj\Debug\RdlCompile.cache
+E:\InventarioACS\obj\Debug\RdlCompile.compiled
+E:\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+E:\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+E:\InventarioACS\obj\Debug\InventarioFod.application
+E:\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+E:\InventarioACS\obj\Debug\InventarioFod.exe
+E:\InventarioACS\obj\Debug\InventarioFod.pdb
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Form_Principal.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.Buscar_Registro_Pedidos.resources
+D:\Documentos\Visual Studio 2017\Projects\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.Buscar_Registro_Pedidos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Facturas.Factura_costo_unidad.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Form_Principal.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.application
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Google.Protobuf.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Google.Protobuf.pdb
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\MySql.Data.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Buffers.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Memory.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Telegram.Bot.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\bin\Debug\WinFormAnimation.dll
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.application
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\RdlCompile.cache
+C:\Users\RandyMS\Documents\Visual Studio 2019\Projects\InventarioACS\obj\Debug\RdlCompile.compiled
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe.config
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.application
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.exe
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\InventarioFod.pdb
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Google.Protobuf.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Google.Protobuf.pdb
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\MySql.Data.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Buffers.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Memory.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\Telegram.Bot.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\bin\Debug\WinFormAnimation.dll
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe.config
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.Buscar_Registro_Pedidos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.RegistrarModelosEquipos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Buscar_Facturas.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Form_Principal.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\RdlCompile.cache
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\RdlCompile.compiled
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.application
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.exe
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.pdb
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+E:\Documentos\Visual Studio 2019\Projects\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.CrearCartel.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\InventarioFod.exe.manifest
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\InventarioFod.application
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\InventarioFod.pdb
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Google.Protobuf.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Google.Protobuf.pdb
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\MySql.Data.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\System.Buffers.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\System.Memory.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\Telegram.Bot.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\bin\Debug\WinFormAnimation.dll
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioACS.csprojAssemblyReference.cache
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.exe.config
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.cargar.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.CrearCartel.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.verificar_instalaciones.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.Buscar_Registro_Pedidos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.RegistrarModelosEquipos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.usuarios.agregar_usuario.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.login_user.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Aplicar_Acciones.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Buscar_Acciones.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Materiales.Buscar_Orden_Materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Revisar_placas_ordenes.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Acciones.Verificar_Equipos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventarios_Equipos_enviar.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Nuevo_Registro.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Consultas.inventarios_materiales.Inventario_materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Administrativo.Inventario_Equipos_enviar.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Form_Cargar.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Equipos_malos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.equipos_malos.Lista_equipos_danados.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.estado_ordenes.Estados_ordenes_produccion.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Ingreso_Equipos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.materiales_pedidos.Pedidos_Materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelos_Equipos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Modelo_Materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Orden_Ingreso.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.orden_salida_materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Formularios.Inventarios.Registrar_Producto.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.AgregarInstitucion.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Form_Principal.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Lista_inventario.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.MenuPrincipal.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Properties.Resources.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Reportes.Equipos_Garantias.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Reportes.Pedidos.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Reportes.salida_materiales.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Reportes.ReporteGeneralDeAcciones.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.Reportes.orden_salidas.resources
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioACS.csproj.GenerateResource.cache
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\RdlCompile.cache
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\RdlCompile.compiled
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioACS.csproj.CoreCompileInputs.cache
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.exe.manifest
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.application
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioACS.csproj.CopyComplete
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.exe
+C:\Users\RandyMS\Desktop\BackupACS\InventarioACS\obj\Debug\InventarioFod.pdb
