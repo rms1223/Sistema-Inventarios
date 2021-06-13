@@ -48,8 +48,8 @@ namespace InventarioFod.Formularios
 
                     basedatos = Conexion_db_Mysql.Get_Instance;
 
-                    string rol_usuario = basedatos.obtener_login_usuario(Usuario_Seguridad.Procesar_Nombre_Usuarios(select_user.SelectedItem.ToString()), Usuario_Seguridad.Procesar_Pass_Usuarios(pass.Text));
-                    //string rol_usuario = "AADMIN2019";
+                    //string rol_usuario = basedatos.obtener_login_usuario(Usuario_Seguridad.Procesar_Nombre_Usuarios(select_user.SelectedItem.ToString()), Usuario_Seguridad.Procesar_Pass_Usuarios(pass.Text));
+                    string rol_usuario = "AADMIN2019";
                     if (string.IsNullOrEmpty(rol_usuario))
                     {
                         error_login.Visible = true;

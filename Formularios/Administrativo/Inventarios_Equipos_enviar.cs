@@ -24,7 +24,7 @@ namespace InventarioFod.Formularios.Administrativo
 
         private void Buscar_Click(object sender, EventArgs e)
         {
-            equipos = db_conn.get_equipos_instituciones(txt_buscar.Text,"ADMIN",0);
+            equipos = db_conn.Get_Equipos_Instituciones(txt_buscar.Text,"ADMIN",0);
             centro_educativo.Text = db_conn.Obtener_Institucion(txt_buscar.Text, "consulta");
             cargar_data();
         }

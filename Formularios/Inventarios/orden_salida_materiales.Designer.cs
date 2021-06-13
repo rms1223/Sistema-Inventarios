@@ -35,13 +35,13 @@
             this.label5 = new System.Windows.Forms.Label();
             this.descripcion = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.tecnicos = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label3 = new System.Windows.Forms.Label();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.descripcion_material = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.orden_trabajo = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -76,13 +76,13 @@
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.descripcion);
             this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.comboBox2);
+            this.groupBox1.Controls.Add(this.tecnicos);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.dataGridView1);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.numericUpDown1);
-            this.groupBox1.Controls.Add(this.comboBox1);
+            this.groupBox1.Controls.Add(this.descripcion_material);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.orden_trabajo);
             this.groupBox1.Controls.Add(this.label1);
@@ -123,10 +123,10 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
-            // comboBox2
+            // tecnicos
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
+            this.tecnicos.FormattingEnabled = true;
+            this.tecnicos.Items.AddRange(new object[] {
             "ANDREI",
             "EDUARDO",
             "ERICK",
@@ -134,11 +134,11 @@
             "PATRICK",
             "RANDY",
             "WALTER"});
-            this.comboBox2.Location = new System.Drawing.Point(182, 474);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(226, 21);
-            this.comboBox2.Sorted = true;
-            this.comboBox2.TabIndex = 9;
+            this.tecnicos.Location = new System.Drawing.Point(182, 474);
+            this.tecnicos.Name = "tecnicos";
+            this.tecnicos.Size = new System.Drawing.Size(226, 21);
+            this.tecnicos.Sorted = true;
+            this.tecnicos.TabIndex = 9;
             // 
             // label4
             // 
@@ -195,15 +195,15 @@
             this.numericUpDown1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.numericUpDown1.Leave += new System.EventHandler(this.NumericUpDown1_Leave);
             // 
-            // comboBox1
+            // descripcion_material
             // 
-            this.comboBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.comboBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.AllSystemSources;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(112, 190);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(313, 21);
-            this.comboBox1.TabIndex = 3;
+            this.descripcion_material.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.descripcion_material.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.AllSystemSources;
+            this.descripcion_material.FormattingEnabled = true;
+            this.descripcion_material.Location = new System.Drawing.Point(112, 190);
+            this.descripcion_material.Name = "descripcion_material";
+            this.descripcion_material.Size = new System.Drawing.Size(313, 21);
+            this.descripcion_material.TabIndex = 3;
             // 
             // label2
             // 
@@ -233,7 +233,7 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Numero de Orden:";
             // 
-            // orden_salida_materiales
+            // Orden_salida_materiales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -243,7 +243,7 @@
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "orden_salida_materiales";
+            this.Name = "Orden_salida_materiales";
             this.Text = "orden salida materiales";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -263,10 +263,10 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label orden_trabajo;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox descripcion_material;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.ComboBox tecnicos;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.DataGridView dataGridView1;

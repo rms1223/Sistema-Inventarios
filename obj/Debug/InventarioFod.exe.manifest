@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InventarioFod.exe" size="1191936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InventarioFod.exe" size="1192448">
       <assemblyIdentity name="InventarioFod" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>t2coFq+y4vECdbQ1yXG9tyc2ZeNvlF3hMD+q2eS+76Q=</dsig:DigestValue>
+        <dsig:DigestValue>jSh3IN5VoE8l65QK5e+xViO8IxYW28OaNtn+0MbWRjs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -15,7 +15,7 @@ namespace InventarioFod.Formularios.Inventarios
         {
             InitializeComponent();
             Data = new AutoCompleteStringCollection();
-            comboBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            descripcion_material.AutoCompleteSource = AutoCompleteSource.CustomSource;
             dataGridView1.ColumnCount = 2;
             dataGridView1.Columns[0].Name = "Descripcion_Material";
             dataGridView1.Columns[1].Name = "Cantidad";
@@ -27,13 +27,13 @@ namespace InventarioFod.Formularios.Inventarios
             {
                 Data.Add(item);
             }
-            comboBox2.Items.Clear();
+            this.tecnicos.Items.Clear();
             foreach (var tecnico in tecnicos)
             {
-                comboBox2.Items.Add(tecnico);
+                this.tecnicos.Items.Add(tecnico);
             }
             descripcion.Text = "ORDEN DE SALIDA PEDIDOS DE MATERIALES DE LOS TECNICOS";
-            comboBox1.AutoCompleteCustomSource = Data;
+            descripcion_material.AutoCompleteCustomSource = Data;
         }
 
         private void XToolStripMenuItem_Click(object sender, EventArgs e)
@@ -43,15 +43,28 @@ namespace InventarioFod.Formularios.Inventarios
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            if (!string.IsNullOrEmpty(comboBox1.Text))
+            if (!string.IsNullOrEmpty(descripcion_material.Text))
             {
-                if (Verificar_Datos(comboBox1.Text, "Descripcion_Material"))
+                if (Verificar_Datos(descripcion_material.Text, "Descripcion_Material"))
                 {
-                    dataGridView1.Rows.Add(comboBox1.Text, numericUpDown1.Value.ToString());
-                    numericUpDown1.Value = 0;
+                    int cantidad_solicitada = Convert.ToInt32(numericUpDown1.Value.ToString());
+                    int cantidad_material = baseDatos.Obtener_Cantidad_Material(descripcion_material.Text);
+
+                    if (En_Stock(cantidad_material, cantidad_solicitada))
+                    {
+                        dataGridView1.Rows.Add(descripcion_material.Text, numericUpDown1.Value.ToString());
+                        numericUpDown1.Value = 0;
+                        descripcion_material.Text = string.Empty;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Material Seleccionado sin Stock\nCantidad en Stock: "+cantidad_material, "Ingreso Materiales", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+
                 }
-                comboBox1.Focus();
-                comboBox1.Text = string.Empty;
+                descripcion_material.Focus();
+                
             }
             else
             {
@@ -59,6 +72,12 @@ namespace InventarioFod.Formularios.Inventarios
             }
 
             
+        }
+
+        private bool En_Stock(int cantidad, int cantidad_solicitada)
+        {
+            if (cantidad == -1 || cantidad_solicitada > cantidad) return false;
+            return true;
         }
         private bool Verificar_Datos(string valor, string tipo_buscar)
         {
@@ -91,9 +110,9 @@ namespace InventarioFod.Formularios.Inventarios
         {
             bool estado = true;
             dataGridView1.AllowUserToAddRows = false;
-            if (dataGridView1.RowCount > 0 && comboBox2.SelectedItem != null)
+            if (dataGridView1.RowCount > 0 && tecnicos.SelectedItem != null)
             {
-                if (!string.IsNullOrEmpty(comboBox2.SelectedItem.ToString()))
+                if (!string.IsNullOrEmpty(tecnicos.SelectedItem.ToString()))
                 {
                     dataGridView1.AllowUserToAddRows = false;
                     baseDatos.Crear_Orden_Materiales(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
@@ -104,7 +123,7 @@ namespace InventarioFod.Formularios.Inventarios
                         int cantidad = Convert.ToInt32(item.Cells["Cantidad"].Value.ToString());
                         if (cantidad > 0)
                         {
-                            baseDatos.Agregar_Materiales_Lista_Inventario(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), comboBox2.SelectedItem.ToString());
+                            baseDatos.Agregar_Materiales_Lista_Inventario(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), tecnicos.SelectedItem.ToString());
 
                         }
                         else

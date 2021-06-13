@@ -12,7 +12,7 @@ namespace InventarioFod.Formularios.Inventarios.estado_ordenes
         {
             InitializeComponent();
             basedatos = Conexion_db_Mysql.Get_Instance;
-            obtener_datos_ordenes();
+            Obtener_Datos_Ordenes();
             rol_usuario = rol;
             if (rol.Equals("AAI2019")|| rol.Equals("ATI2019"))
             {
@@ -25,7 +25,7 @@ namespace InventarioFod.Formularios.Inventarios.estado_ordenes
             {
                 if (basedatos.Actuallizar_Estado_Orden_Produccion(Convert.ToInt32(label2.Text), comboBox1.SelectedItem.ToString()))
                 {
-                    obtener_datos_ordenes();
+                    Obtener_Datos_Ordenes();
                 }
                 MessageBox.Show("Orden Actualizada", "Opciones Ordenes", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -37,7 +37,7 @@ namespace InventarioFod.Formularios.Inventarios.estado_ordenes
             
         }
 
-        private void obtener_datos_ordenes()
+        private void Obtener_Datos_Ordenes()
         {
             dataGridView1.DataSource = basedatos.Obtener_Estados_Ordenes_produccion("PENDIENTE");
             dataGridView2.DataSource = basedatos.Obtener_Estados_Ordenes_produccion("EN PROCESO");

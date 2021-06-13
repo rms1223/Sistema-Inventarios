@@ -20,7 +20,7 @@ namespace InventarioFod.Formularios.Administrativo
 
         private void Buscar_Click(object sender, EventArgs e)
         {
-            equipos = db_conn.get_equipos_instituciones(txt_buscar.Text, "ADMINISTRATIVO", Convert.ToInt32(num_orden.Text)) ;
+            equipos = db_conn.Get_Equipos_Instituciones(txt_buscar.Text, "ADMINISTRATIVO", Convert.ToInt32(num_orden.Text)) ;
             label7.Text = db_conn.Obtener_Institucion(txt_buscar.Text, "consulta");
             cargar_data();
         }

@@ -574,21 +574,6 @@ namespace InventarioFod.Clases
                 }
             }
         }
-        /*public DataSet Get_reporte_pedido_despacho(int orden)
-        {
-            source_acciones.Clear();
-            using (MySqlCommand cmd = new MySqlCommand())
-            {
-
-                cmd.CommandText = "SELECT * FROM equipos_instalacion_instituciones_final where Codigo_Institucion = 4118";
-                cmd.Connection = conn;
-                using (MySqlDataAdapter adapter = new MySqlDataAdapter(cmd))
-                {
-                    adapter.Fill(source_acciones);
-                }
-            }
-            return source_acciones;
-        }*/
         
 
         public DataTable Obtener_Acciones(int accion)
@@ -663,7 +648,31 @@ namespace InventarioFod.Clases
 
                 throw;
             }
+            
         }
+        public int Obtener_Cantidad_Material(string descripcion)
+        {
+            try
+            {
+                int cantidad = 0;
+                string sql = "SELECT cantidad FROM cantidad_stock_materiales WHERE descripcion = '" + descripcion + "'";
+                comando = new MySqlCommand(sql, conn);
+                using (MySqlDataReader lector = comando.ExecuteReader())
+                {
+                    while (lector.Read())
+                    {
+                        cantidad = Convert.ToInt32(lector["cantidad"]);
+                    }
+                }
+                return cantidad;
+            }
+            catch (Exception ex)
+            {
+                return -1;
+            }
+        }
+
+
         public void Agregar_Materiales_Lista_Inventario(string descripcion, int cantidad, int orden,string tecnico)
         {
             try
@@ -951,7 +960,7 @@ namespace InventarioFod.Clases
             return datos;
         }
 
-        public Equipos_Instalacion_Instituciones get_equipos_instituciones(string codigo,string tipo,int orden)
+        public Equipos_Instalacion_Instituciones Get_Equipos_Instituciones(string codigo,string tipo,int orden)
         {
             Equipos_Instalacion_Instituciones equi = new Equipos_Instalacion_Instituciones();
             try
