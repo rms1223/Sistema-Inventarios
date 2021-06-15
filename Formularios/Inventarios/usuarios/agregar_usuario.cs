@@ -25,9 +25,9 @@ namespace InventarioFod.Formularios.Inventarios.usuarios
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            string user_val = Usuario_Seguridad.Procesar_Nombre_Usuarios(user.Text);
+            //string user_val = Usuario_Seguridad.Procesar_Nombre_Usuarios(user.Text);
             string pass_val = Usuario_Seguridad.Procesar_Pass_Usuarios(pass.Text);
-           bool estado= basedatos.Insertar_Usuarios(user_val,pass_val,rol.SelectedItem.ToString());
+           bool estado= basedatos.Insertar_Usuarios(user.Text, pass_val,rol.SelectedItem.ToString());
             if (estado)
             {
                 MessageBox.Show("Datos Guardados", "Opciones Guardado", MessageBoxButtons.OK, MessageBoxIcon.Information);

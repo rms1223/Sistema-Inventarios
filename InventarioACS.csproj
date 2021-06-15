@@ -128,7 +128,6 @@
     <Compile Include="Clases\Entidades\Equipo_Acciones.cs" />
     <Compile Include="Clases\Entidades\Institucion.cs" />
     <Compile Include="Clases\Entidades\Listado.cs" />
-    <Compile Include="Clases\Entidades\Security\Security_File.cs" />
     <Compile Include="Clases\Entidades\Security\seguridad.cs" />
     <Compile Include="Clases\Entidades\Security\Usuario_Seguridad.cs" />
     <Compile Include="Clases\Manejo_De_Datos\Conexion_DB\Lectura_xml.cs" />

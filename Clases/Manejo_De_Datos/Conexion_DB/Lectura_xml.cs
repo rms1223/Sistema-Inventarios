@@ -55,7 +55,6 @@ namespace InventarioFod.Clases.Manejo_De_Datos.Conexion_DB
         public Lectura_xml()
         {
 
-            //Security_File.Descifrar_Archivo(Path.Combine(Application.StartupPath, @"Data\Configuration_App.xml.rms"), Var_Name.Clave);
             XmlTextReader reader = new XmlTextReader(Path.Combine(Application.StartupPath, @"Data\Configuration_App.xml"));
             string nombre_actual = "";
             while (reader.Read())
@@ -81,7 +80,6 @@ namespace InventarioFod.Clases.Manejo_De_Datos.Conexion_DB
             Lista_Correos = new List<string>();
             Lectura_xml_Parametros_Listados();
             reader.Close();
-            //Security_File.Cifrar_Archivo(Path.Combine(Application.StartupPath, @"Data\Configuration_App.xml"), Var_Name.Clave);
         }
 
         private void Cargar_valores(string nombre_campo,string valor)

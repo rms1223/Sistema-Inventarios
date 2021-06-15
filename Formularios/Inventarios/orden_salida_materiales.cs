@@ -76,7 +76,7 @@ namespace InventarioFod.Formularios.Inventarios
 
         private bool En_Stock(int cantidad, int cantidad_solicitada)
         {
-            if (cantidad == -1 || cantidad_solicitada > cantidad) return false;
+            if (cantidad == -1 || cantidad_solicitada > cantidad || cantidad_solicitada ==0) return false;
             return true;
         }
         private bool Verificar_Datos(string valor, string tipo_buscar)
@@ -121,25 +121,11 @@ namespace InventarioFod.Formularios.Inventarios
                     foreach (DataGridViewRow item in dataGridView1.Rows)
                     {
                         int cantidad = Convert.ToInt32(item.Cells["Cantidad"].Value.ToString());
-                        if (cantidad > 0)
-                        {
-                            baseDatos.Agregar_Materiales_Lista_Inventario(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), tecnicos.SelectedItem.ToString());
-
-                        }
-                        else
-                        {
-                            MessageBox.Show("Cantidad debe ser mayor a 0", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            estado = false;
-                            break;
-                        }
+                        baseDatos.Agregar_Materiales_Lista_Inventario(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), tecnicos.SelectedItem.ToString());
                     }
-                    if (estado)
-                    {
-                        MessageBox.Show("Datos Guardados", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        dataGridView1.Rows.Clear();
-                        dataGridView1.Refresh();
-                    }
-                    
+                    MessageBox.Show("Datos Guardados", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    dataGridView1.Rows.Clear();
+                    dataGridView1.Refresh();
                 }
                 else
                 {

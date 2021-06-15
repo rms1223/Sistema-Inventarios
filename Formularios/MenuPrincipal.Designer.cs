@@ -52,19 +52,19 @@
             System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("Aplicar Estado de Ordenes Salida", 17, 10);
             System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("Opciones Ordenes", 14, 10, new System.Windows.Forms.TreeNode[] {
             treeNode11});
-            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("Ingreso de Equipos Dañados", 21, 10);
-            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("Estado Ordenes de Bodega", 22, 10);
+            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("Estado Ordenes en Preparación", 22, 10);
+            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("Equipos en Ordenes de Trabajo", 23, 10);
             System.Windows.Forms.TreeNode treeNode15 = new System.Windows.Forms.TreeNode("Equipos Asignados a Centro Educativo", 16, 10);
-            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("Equipos en Ordenes de Trabajo", 23, 10);
-            System.Windows.Forms.TreeNode treeNode17 = new System.Windows.Forms.TreeNode("Equipos en Laboratorios");
-            System.Windows.Forms.TreeNode treeNode18 = new System.Windows.Forms.TreeNode("Ordenes", 20, 10, new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("Equipos en Laboratorios");
+            System.Windows.Forms.TreeNode treeNode17 = new System.Windows.Forms.TreeNode("Ordenes", 20, 10, new System.Windows.Forms.TreeNode[] {
+            treeNode13,
             treeNode14,
             treeNode15,
-            treeNode16,
-            treeNode17});
-            System.Windows.Forms.TreeNode treeNode19 = new System.Windows.Forms.TreeNode("Revisar Placas en Ordenes", 31, 10);
+            treeNode16});
+            System.Windows.Forms.TreeNode treeNode18 = new System.Windows.Forms.TreeNode("Revisar Placas en Ordenes", 31, 10);
+            System.Windows.Forms.TreeNode treeNode19 = new System.Windows.Forms.TreeNode("Ingreso de Equipos Dañados", 21, 10);
             System.Windows.Forms.TreeNode treeNode20 = new System.Windows.Forms.TreeNode("Consultas", 18, 10, new System.Windows.Forms.TreeNode[] {
-            treeNode13,
+            treeNode17,
             treeNode18,
             treeNode19});
             System.Windows.Forms.TreeNode treeNode21 = new System.Windows.Forms.TreeNode("Preparacion de Equipos par CE", 26, 10);
@@ -240,40 +240,40 @@
             treeNode12.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
             treeNode12.SelectedImageIndex = 10;
             treeNode12.Text = "Opciones Ordenes";
-            treeNode13.ImageIndex = 21;
-            treeNode13.Name = "equipos_danados";
+            treeNode13.ImageIndex = 22;
+            treeNode13.Name = "estado_ordenes";
             treeNode13.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode13.SelectedImageIndex = 10;
-            treeNode13.Text = "Ingreso de Equipos Dañados";
-            treeNode14.ImageIndex = 22;
-            treeNode14.Name = "estado_ordenes";
+            treeNode13.Text = "Estado Ordenes en Preparación";
+            treeNode14.ImageIndex = 23;
+            treeNode14.Name = "verif_equipos";
             treeNode14.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode14.SelectedImageIndex = 10;
-            treeNode14.Text = "Estado Ordenes de Bodega";
+            treeNode14.Text = "Equipos en Ordenes de Trabajo";
             treeNode15.ImageIndex = 16;
             treeNode15.Name = "list_reequi";
             treeNode15.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode15.SelectedImageIndex = 10;
             treeNode15.Text = "Equipos Asignados a Centro Educativo";
-            treeNode16.ImageIndex = 23;
-            treeNode16.Name = "verif_equipos";
+            treeNode16.Name = "t_equipos_instalacion";
             treeNode16.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode16.SelectedImageIndex = 10;
-            treeNode16.Text = "Equipos en Ordenes de Trabajo";
-            treeNode17.Name = "t_equipos_instalacion";
+            treeNode16.Text = "Equipos en Laboratorios";
+            treeNode17.ImageIndex = 20;
+            treeNode17.Name = "Nodo0";
             treeNode17.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode17.SelectedImageIndex = 10;
-            treeNode17.Text = "Equipos en Laboratorios";
-            treeNode18.ImageIndex = 20;
-            treeNode18.Name = "Nodo0";
+            treeNode17.Text = "Ordenes";
+            treeNode18.ImageIndex = 31;
+            treeNode18.Name = "revisar_placas";
             treeNode18.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode18.SelectedImageIndex = 10;
-            treeNode18.Text = "Ordenes";
-            treeNode19.ImageIndex = 31;
-            treeNode19.Name = "revisar_placas";
+            treeNode18.Text = "Revisar Placas en Ordenes";
+            treeNode19.ImageIndex = 21;
+            treeNode19.Name = "equipos_danados";
             treeNode19.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             treeNode19.SelectedImageIndex = 10;
-            treeNode19.Text = "Revisar Placas en Ordenes";
+            treeNode19.Text = "Ingreso de Equipos Dañados";
             treeNode20.ImageIndex = 18;
             treeNode20.Name = "Nodo0";
             treeNode20.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);

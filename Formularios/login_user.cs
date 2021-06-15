@@ -15,8 +15,8 @@ namespace InventarioFod.Formularios
             InitializeComponent();
             tipos_sistema.SelectedIndex = 0;
             label4.Text = "RMS-ACS " + DateTime.Now.ToString("yyyy");
-            Lectura_xml Xml = new Lectura_xml();
-            
+            _ = new Lectura_xml();
+
             error_login.Visible = false;
         }
 
@@ -48,8 +48,7 @@ namespace InventarioFod.Formularios
 
                     basedatos = Conexion_db_Mysql.Get_Instance;
 
-                    //string rol_usuario = basedatos.obtener_login_usuario(Usuario_Seguridad.Procesar_Nombre_Usuarios(select_user.SelectedItem.ToString()), Usuario_Seguridad.Procesar_Pass_Usuarios(pass.Text));
-                    string rol_usuario = "AADMIN2019";
+                    string rol_usuario = basedatos.obtener_login_usuario(select_user.SelectedItem.ToString(), Usuario_Seguridad.Procesar_Pass_Usuarios(pass.Text));
                     if (string.IsNullOrEmpty(rol_usuario))
                     {
                         error_login.Visible = true;
