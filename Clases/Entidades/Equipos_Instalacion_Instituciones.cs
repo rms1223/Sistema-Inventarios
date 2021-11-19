@@ -3,6 +3,8 @@
     class Equipos_Instalacion_Instituciones
     {
         public string Codigo { get; set; }
+        public string Lote { get; set; }
+        public string observacion { get; set; }
         public string Modalidad { get; set; }
         public string Condicion { get; set; }
         public int Port_docente { get; set; }

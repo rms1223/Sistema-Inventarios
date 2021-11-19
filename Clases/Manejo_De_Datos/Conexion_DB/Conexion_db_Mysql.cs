@@ -465,7 +465,7 @@ namespace InventarioFod.Clases
                     num_accion = Convert.ToInt32(lector["Codigo"]);
                 }
             }
-            return num_accion;
+            return num_accion+1;
         }
         public bool Insertar_Registros_Inventarios(Equipos_Reequipamiento equi_requi, string query)
         {
@@ -1112,6 +1112,8 @@ namespace InventarioFod.Clases
                     cmd.Parameters.AddWithValue("Codigo", equi.Codigo);
                     cmd.Parameters.AddWithValue("Modalidad", equi.Modalidad);
                     cmd.Parameters.AddWithValue("Condicion", equi.Condicion);
+                    cmd.Parameters.AddWithValue("Lote", equi.Lote);
+                    cmd.Parameters.AddWithValue("Observaciones", equi.observacion);
                     cmd.Parameters.AddWithValue("port_docente",equi.Port_docente);
                     cmd.Parameters.AddWithValue("port_preescolar", equi.Port_preescolar);
                     cmd.Parameters.AddWithValue("port_1_estudiante", equi.Port_1_estudiante);
@@ -1241,6 +1243,41 @@ namespace InventarioFod.Clases
             }
             return tecnicos;
         }
+        public int Get_Codigo_Tecnico()//Metodo para obtener El siguiente Codigo del producto
+        {
+            string sql = "SELECT codigo_tecnico FROM view_get_codigotecnico";
+            int valor_codigo = 0;
+            comando = new MySqlCommand(sql, conn);
+            using (MySqlDataReader lector = comando.ExecuteReader())
+            {
+                while (lector.Read())
+                {
+                    valor_codigo = Convert.ToInt32(lector["codigo_tecnico"].ToString());
+                }
+            }
+            return valor_codigo + 1;
+        }
+        public bool Save_Tecnicos(string nombreTecnico)
+        {
+            try
+            {
+                using (MySqlCommand cmd = new MySqlCommand())
+                {
+                    int codigo = Get_Codigo_Tecnico();
+                    cmd.CommandText = "INSERT INTO tecnicos VALUES('"+codigo+"','"+ nombreTecnico + "')";
+                    cmd.Connection = conn;
+                    cmd.ExecuteNonQuery();
+
+                }
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+
+            }
+        }
+
         public DataTable Get_Facturas_Materiales(string tipo)
         {
             DataTable datos = new DataTable();

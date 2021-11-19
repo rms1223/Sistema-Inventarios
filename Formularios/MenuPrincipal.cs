@@ -43,7 +43,6 @@ namespace InventarioFod
             base_datos.Estado_Tecnicos = true;
             base_datos.GET_Ubicaciones();
             
-            label3.Text = "RMS " + DateTime.Now.ToString("yyyy");
             toolStripStatusLabel2.Text = "Fecha: " + Var_Name.Fecha_Actual;
             treeView1.ExpandAll();
             StopRun();
@@ -265,31 +264,13 @@ namespace InventarioFod
         public void Validar_estadoConexion()
         {
             string estado = base_datos.Estado_Conexion();
-            
-            if (estado.Equals("DISPONIBLE"))
-            {
-                estado_conLabel.ForeColor = Color.Green;
-            }
-            else
-            {
-                estado_conLabel.ForeColor = Color.Red;
-            }
-            estado_conLabel.Text = estado;
             base_datos.Verificar_Conexion();
         }
         private void Timer1_Tick(object sender, EventArgs e)
         {
             Validar_estadoConexion();
             string message_server = base_datos.mensaje_conexion;
-            if (!message_server.Contains("ERROR"))
-            {
-                message_status.ForeColor = Color.Green;
-            }
-            else
-            {
-                message_status.ForeColor = Color.Red;
-            }
-            message_status.Text = message_server;
+            
         }
 
         private void Timer2_Tick(object sender, EventArgs e)

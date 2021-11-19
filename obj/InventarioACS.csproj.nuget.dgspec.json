@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RandyMS\\Desktop\\BackupACS\\InventarioACS\\InventarioACS.csproj": {}
+    "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RandyMS\\Desktop\\BackupACS\\InventarioACS\\InventarioACS.csproj": {
+    "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RandyMS\\Desktop\\BackupACS\\InventarioACS\\InventarioACS.csproj",
+        "projectUniqueName": "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj",
         "projectName": "InventarioACS",
-        "projectPath": "C:\\Users\\RandyMS\\Desktop\\BackupACS\\InventarioACS\\InventarioACS.csproj",
+        "projectPath": "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj",
         "packagesPath": "C:\\Users\\RandyMS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RandyMS\\Desktop\\BackupACS\\InventarioACS\\obj\\",
+        "outputPath": "E:\\Escritorio\\InventarioACS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -41,6 +41,10 @@
             "DocumentFormat.OpenXml": {
               "target": "Package",
               "version": "[2.9.1, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
             },
             "Google.Protobuf": {
               "target": "Package",

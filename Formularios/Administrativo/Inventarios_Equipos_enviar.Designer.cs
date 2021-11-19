@@ -34,6 +34,8 @@
             this.txt_buscar = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.num_lote = new System.Windows.Forms.Label();
+            this.lote = new System.Windows.Forms.Label();
             this.num_pedido = new System.Windows.Forms.Label();
             this.label42 = new System.Windows.Forms.Label();
             this.orden_trabajo = new System.Windows.Forms.Label();
@@ -124,8 +126,9 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.opcionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuevoRegistroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.verificarInstalacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.xToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.label3 = new System.Windows.Forms.Label();
+            this.observaciones = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel7.SuspendLayout();
@@ -214,6 +217,8 @@
             // groupBox1
             // 
             this.groupBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.groupBox1.Controls.Add(this.num_lote);
+            this.groupBox1.Controls.Add(this.lote);
             this.groupBox1.Controls.Add(this.num_pedido);
             this.groupBox1.Controls.Add(this.label42);
             this.groupBox1.Controls.Add(this.orden_trabajo);
@@ -235,11 +240,30 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(12, 81);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(941, 554);
+            this.groupBox1.Size = new System.Drawing.Size(941, 597);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Solicitud de Pedido";
             this.groupBox1.Enter += new System.EventHandler(this.GroupBox1_Enter);
+            // 
+            // num_lote
+            // 
+            this.num_lote.AutoSize = true;
+            this.num_lote.ForeColor = System.Drawing.Color.Blue;
+            this.num_lote.Location = new System.Drawing.Point(388, 72);
+            this.num_lote.Name = "num_lote";
+            this.num_lote.Size = new System.Drawing.Size(28, 13);
+            this.num_lote.TabIndex = 71;
+            this.num_lote.Text = ".......";
+            // 
+            // lote
+            // 
+            this.lote.AutoSize = true;
+            this.lote.Location = new System.Drawing.Point(310, 72);
+            this.lote.Name = "lote";
+            this.lote.Size = new System.Drawing.Size(31, 13);
+            this.lote.TabIndex = 70;
+            this.lote.Text = "Lote:";
             // 
             // num_pedido
             // 
@@ -247,9 +271,9 @@
             this.num_pedido.ForeColor = System.Drawing.Color.Red;
             this.num_pedido.Location = new System.Drawing.Point(856, 16);
             this.num_pedido.Name = "num_pedido";
-            this.num_pedido.Size = new System.Drawing.Size(41, 13);
+            this.num_pedido.Size = new System.Drawing.Size(25, 13);
             this.num_pedido.TabIndex = 68;
-            this.num_pedido.Text = "label45";
+            this.num_pedido.Text = "......";
             // 
             // label42
             // 
@@ -267,9 +291,9 @@
             this.orden_trabajo.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.orden_trabajo.Location = new System.Drawing.Point(147, 26);
             this.orden_trabajo.Name = "orden_trabajo";
-            this.orden_trabajo.Size = new System.Drawing.Size(41, 13);
+            this.orden_trabajo.Size = new System.Drawing.Size(28, 13);
             this.orden_trabajo.TabIndex = 66;
-            this.orden_trabajo.Text = "label45";
+            this.orden_trabajo.Text = ".......";
             // 
             // institu_text
             // 
@@ -283,8 +307,8 @@
             // condicion_txt
             // 
             this.condicion_txt.AutoSize = true;
-            this.condicion_txt.ForeColor = System.Drawing.Color.Red;
-            this.condicion_txt.Location = new System.Drawing.Point(594, 16);
+            this.condicion_txt.ForeColor = System.Drawing.Color.Blue;
+            this.condicion_txt.Location = new System.Drawing.Point(627, 16);
             this.condicion_txt.Name = "condicion_txt";
             this.condicion_txt.Size = new System.Drawing.Size(28, 13);
             this.condicion_txt.TabIndex = 64;
@@ -304,7 +328,7 @@
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(877, 492);
+            this.button2.Location = new System.Drawing.Point(876, 525);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(35, 37);
             this.button2.TabIndex = 62;
@@ -334,7 +358,7 @@
             this.panel7.Controls.Add(this.cant_router);
             this.panel7.Controls.Add(this.label28);
             this.panel7.Controls.Add(this.cant_switch);
-            this.panel7.Location = new System.Drawing.Point(546, 179);
+            this.panel7.Location = new System.Drawing.Point(545, 212);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(366, 307);
             this.panel7.TabIndex = 61;
@@ -363,9 +387,9 @@
             this.label40.AutoSize = true;
             this.label40.Location = new System.Drawing.Point(199, 15);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(96, 13);
+            this.label40.Size = new System.Drawing.Size(60, 13);
             this.label40.TabIndex = 56;
-            this.label40.Text = "Patch Cord-Blanco";
+            this.label40.Text = "Patch Cord";
             // 
             // cant_blanco
             // 
@@ -420,9 +444,9 @@
             this.label36.AutoSize = true;
             this.label36.Location = new System.Drawing.Point(25, 175);
             this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(100, 13);
+            this.label36.Size = new System.Drawing.Size(60, 13);
             this.label36.TabIndex = 50;
-            this.label36.Text = "Parlantes KWS-616";
+            this.label36.Text = "Parlantes-1";
             // 
             // cant_parlante1
             // 
@@ -439,9 +463,9 @@
             this.label37.AutoSize = true;
             this.label37.Location = new System.Drawing.Point(25, 211);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(95, 13);
+            this.label37.Size = new System.Drawing.Size(60, 13);
             this.label37.TabIndex = 52;
-            this.label37.Text = "Parlantes GENIUS";
+            this.label37.Text = "Parlantes-2";
             // 
             // cant_parlante2
             // 
@@ -458,9 +482,9 @@
             this.label20.AutoSize = true;
             this.label20.Location = new System.Drawing.Point(25, 93);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(89, 13);
+            this.label20.Size = new System.Drawing.Size(57, 13);
             this.label20.TabIndex = 46;
-            this.label20.Text = "AP Interno-MR20";
+            this.label20.Text = "AP Interno";
             // 
             // cant_interno
             // 
@@ -478,9 +502,9 @@
             this.label35.AutoSize = true;
             this.label35.Location = new System.Drawing.Point(25, 129);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(92, 13);
+            this.label35.Size = new System.Drawing.Size(60, 13);
             this.label35.TabIndex = 48;
-            this.label35.Text = "AP Externo-MR70";
+            this.label35.Text = "AP Externo";
             // 
             // cant_externo
             // 
@@ -541,7 +565,7 @@
             this.panel6.Controls.Add(this.cant_usb);
             this.panel6.Controls.Add(this.label32);
             this.panel6.Controls.Add(this.cant_cartucho);
-            this.panel6.Location = new System.Drawing.Point(546, 73);
+            this.panel6.Location = new System.Drawing.Point(545, 106);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(366, 100);
             this.panel6.TabIndex = 60;
@@ -615,7 +639,7 @@
             this.panel5.Controls.Add(this.cant_hdmi);
             this.panel5.Controls.Add(this.label25);
             this.panel5.Controls.Add(this.cant_vga);
-            this.panel5.Location = new System.Drawing.Point(32, 441);
+            this.panel5.Location = new System.Drawing.Point(31, 474);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(507, 100);
             this.panel5.TabIndex = 59;
@@ -708,7 +732,7 @@
             this.panel4.Controls.Add(this.cant_ups1);
             this.panel4.Controls.Add(this.label16);
             this.panel4.Controls.Add(this.cant_ups2);
-            this.panel4.Location = new System.Drawing.Point(32, 354);
+            this.panel4.Location = new System.Drawing.Point(31, 387);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(507, 78);
             this.panel4.TabIndex = 58;
@@ -756,9 +780,9 @@
             this.label17.AutoSize = true;
             this.label17.Location = new System.Drawing.Point(67, 10);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(56, 13);
+            this.label17.Size = new System.Drawing.Size(38, 13);
             this.label17.TabIndex = 26;
-            this.label17.Text = "UPS-1011";
+            this.label17.Text = "UPS-1";
             // 
             // cant_ups1
             // 
@@ -775,9 +799,9 @@
             this.label16.AutoSize = true;
             this.label16.Location = new System.Drawing.Point(67, 46);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(50, 13);
+            this.label16.Size = new System.Drawing.Size(38, 13);
             this.label16.TabIndex = 28;
-            this.label16.Text = "UPS-401";
+            this.label16.Text = "UPS-2";
             // 
             // cant_ups2
             // 
@@ -802,7 +826,7 @@
             this.panel3.Controls.Add(this.cant_mouseserver);
             this.panel3.Controls.Add(this.label21);
             this.panel3.Controls.Add(this.cant_candado);
-            this.panel3.Location = new System.Drawing.Point(32, 242);
+            this.panel3.Location = new System.Drawing.Point(31, 275);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(507, 100);
             this.panel3.TabIndex = 57;
@@ -812,9 +836,9 @@
             this.label19.AutoSize = true;
             this.label19.Location = new System.Drawing.Point(67, 12);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(76, 13);
+            this.label19.Size = new System.Drawing.Size(46, 13);
             this.label19.TabIndex = 22;
-            this.label19.Text = "Servidor-DELL";
+            this.label19.Text = "Servidor";
             // 
             // cant_servidor
             // 
@@ -923,7 +947,7 @@
             this.panel2.Controls.Add(this.cant_estu1);
             this.panel2.Controls.Add(this.label10);
             this.panel2.Controls.Add(this.cant_estu2);
-            this.panel2.Location = new System.Drawing.Point(32, 74);
+            this.panel2.Location = new System.Drawing.Point(31, 107);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(507, 156);
             this.panel2.TabIndex = 56;
@@ -1104,9 +1128,9 @@
             this.label10.AutoSize = true;
             this.label10.Location = new System.Drawing.Point(67, 124);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(93, 13);
+            this.label10.Size = new System.Drawing.Size(69, 13);
             this.label10.TabIndex = 12;
-            this.label10.Text = "Portatil-Tipo2-8GB";
+            this.label10.Text = "Portatil-Tipo2";
             // 
             // cant_estu2
             // 
@@ -1130,9 +1154,9 @@
             this.centro_educativo.ForeColor = System.Drawing.Color.Blue;
             this.centro_educativo.Location = new System.Drawing.Point(627, 39);
             this.centro_educativo.Name = "centro_educativo";
-            this.centro_educativo.Size = new System.Drawing.Size(22, 13);
+            this.centro_educativo.Size = new System.Drawing.Size(28, 13);
             this.centro_educativo.TabIndex = 5;
-            this.centro_educativo.Text = ".....";
+            this.centro_educativo.Text = ".......";
             // 
             // label6
             // 
@@ -1147,11 +1171,11 @@
             // 
             this.codigo_text.AutoSize = true;
             this.codigo_text.ForeColor = System.Drawing.Color.Blue;
-            this.codigo_text.Location = new System.Drawing.Point(359, 39);
+            this.codigo_text.Location = new System.Drawing.Point(388, 39);
             this.codigo_text.Name = "codigo_text";
-            this.codigo_text.Size = new System.Drawing.Size(31, 13);
+            this.codigo_text.Size = new System.Drawing.Size(28, 13);
             this.codigo_text.TabIndex = 3;
-            this.codigo_text.Text = "........";
+            this.codigo_text.Text = ".......";
             // 
             // label4
             // 
@@ -1196,8 +1220,7 @@
             // opcionesToolStripMenuItem
             // 
             this.opcionesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.nuevoRegistroToolStripMenuItem,
-            this.verificarInstalacionesToolStripMenuItem});
+            this.nuevoRegistroToolStripMenuItem});
             this.opcionesToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("opcionesToolStripMenuItem.Image")));
             this.opcionesToolStripMenuItem.Name = "opcionesToolStripMenuItem";
             this.opcionesToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
@@ -1211,13 +1234,6 @@
             this.nuevoRegistroToolStripMenuItem.Text = "Nuevo Registro";
             this.nuevoRegistroToolStripMenuItem.Click += new System.EventHandler(this.NuevoRegistroToolStripMenuItem_Click);
             // 
-            // verificarInstalacionesToolStripMenuItem
-            // 
-            this.verificarInstalacionesToolStripMenuItem.Name = "verificarInstalacionesToolStripMenuItem";
-            this.verificarInstalacionesToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
-            this.verificarInstalacionesToolStripMenuItem.Text = "Verificar Instalaciones";
-            this.verificarInstalacionesToolStripMenuItem.Click += new System.EventHandler(this.VerificarInstalacionesToolStripMenuItem_Click);
-            // 
             // xToolStripMenuItem
             // 
             this.xToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
@@ -1228,13 +1244,34 @@
             this.xToolStripMenuItem.Text = "X";
             this.xToolStripMenuItem.Click += new System.EventHandler(this.XToolStripMenuItem_Click);
             // 
+            // label3
+            // 
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(12, 692);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(81, 13);
+            this.label3.TabIndex = 72;
+            this.label3.Text = "Observaciones:";
+            // 
+            // observaciones
+            // 
+            this.observaciones.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.observaciones.Location = new System.Drawing.Point(12, 720);
+            this.observaciones.Multiline = true;
+            this.observaciones.Name = "observaciones";
+            this.observaciones.Size = new System.Drawing.Size(941, 123);
+            this.observaciones.TabIndex = 73;
+            // 
             // Inventarios_Equipos_enviar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(965, 656);
+            this.ClientSize = new System.Drawing.Size(965, 858);
+            this.Controls.Add(this.observaciones);
             this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -1396,6 +1433,9 @@
         private System.Windows.Forms.Label institu_text;
         private System.Windows.Forms.Label num_pedido;
         private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.ToolStripMenuItem verificarInstalacionesToolStripMenuItem;
+        private System.Windows.Forms.Label num_lote;
+        private System.Windows.Forms.Label lote;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox observaciones;
     }
 }

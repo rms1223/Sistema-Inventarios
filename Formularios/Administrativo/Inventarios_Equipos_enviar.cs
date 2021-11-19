@@ -99,6 +99,8 @@ namespace InventarioFod.Formularios.Administrativo
             equipos.Codigo = codigo_text.Text;
             equipos.Modalidad = modalidad_text.Text;
             equipos.Condicion = condicion_txt.Text;
+            equipos.Lote = num_lote.Text;
+            equipos.observacion = observaciones.Text;
 
             equipos.Port_docente= Convert.ToInt32(cant_docente.Value);
             equipos.Port_preescolar= Convert.ToInt32(cant_preescolar.Value);
@@ -144,7 +146,6 @@ namespace InventarioFod.Formularios.Administrativo
             equipos.Cartucho_tinta = Convert.ToInt32(cant_cartucho.Value);
             equipos.Mouse = Convert.ToInt32(cant_mouse.Value);
             db_conn.Insertar_Institucion_Equipos_final(equipos, orden_trabajo.Text,"ADMINISTRATIVO",num_pedido.Text);
-            telegram_equipos.SendMessageSave(equipos, centro_educativo.Text);
             MessageBox.Show("Estado Actualizado", "Opciones Accesorios", MessageBoxButtons.OK, MessageBoxIcon.Information);
             button2.Enabled = true;
         }
@@ -166,7 +167,7 @@ namespace InventarioFod.Formularios.Administrativo
 
         private void NuevoRegistroToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Nuevo_Registro registro = new Nuevo_Registro(codigo_text, centro_educativo, modalidad_text, condicion_txt);
+            Nuevo_Registro registro = new Nuevo_Registro(codigo_text, centro_educativo, modalidad_text, condicion_txt, num_lote);
             registro.Show();
         }
 

@@ -32,9 +32,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.Guardar = new System.Windows.Forms.Button();
             this.institucion = new System.Windows.Forms.TextBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
@@ -42,6 +40,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.xToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.label3 = new System.Windows.Forms.Label();
+            this.id_lote = new System.Windows.Forms.TextBox();
+            this.nom_modalidad = new System.Windows.Forms.TextBox();
+            this.nom_condicion = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -49,11 +51,13 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.Controls.Add(this.nom_condicion);
+            this.groupBox1.Controls.Add(this.nom_modalidad);
+            this.groupBox1.Controls.Add(this.id_lote);
+            this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.Guardar);
             this.groupBox1.Controls.Add(this.institucion);
-            this.groupBox1.Controls.Add(this.comboBox2);
             this.groupBox1.Controls.Add(this.label5);
-            this.groupBox1.Controls.Add(this.comboBox1);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.linkLabel1);
@@ -61,7 +65,7 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(12, 31);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(600, 291);
+            this.groupBox1.Size = new System.Drawing.Size(600, 366);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos de Registro";
@@ -71,7 +75,7 @@
             this.Guardar.FlatAppearance.BorderSize = 0;
             this.Guardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Guardar.Image = ((System.Drawing.Image)(resources.GetObject("Guardar.Image")));
-            this.Guardar.Location = new System.Drawing.Point(494, 247);
+            this.Guardar.Location = new System.Drawing.Point(387, 319);
             this.Guardar.Name = "Guardar";
             this.Guardar.Size = new System.Drawing.Size(32, 35);
             this.Guardar.TabIndex = 10;
@@ -80,50 +84,20 @@
             // 
             // institucion
             // 
-            this.institucion.Location = new System.Drawing.Point(242, 102);
+            this.institucion.Location = new System.Drawing.Point(217, 102);
             this.institucion.Multiline = true;
             this.institucion.Name = "institucion";
             this.institucion.Size = new System.Drawing.Size(202, 50);
             this.institucion.TabIndex = 9;
             // 
-            // comboBox2
-            // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "RENOVACIÓN",
-            "AMPLIACIÓN",
-            "PERMUTA",
-            "CASOS"});
-            this.comboBox2.Location = new System.Drawing.Point(244, 220);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(202, 21);
-            this.comboBox2.TabIndex = 8;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(92, 223);
+            this.label5.Location = new System.Drawing.Point(87, 223);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(57, 13);
             this.label5.TabIndex = 7;
             this.label5.Text = "Condición:";
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "MULTIGRADO",
-            "REM@",
-            "MOVILAB SECUNDARIA",
-            "LIE MOVIL SECUNDARIA",
-            "INDIGENA MULTIGRADO",
-            "INDIGENA MOVILAB PRIMARIA",
-            "INDIGENA MOVILAB SECUNDARIA",
-            "PREESCOLAR"});
-            this.comboBox1.Location = new System.Drawing.Point(244, 182);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(202, 21);
-            this.comboBox1.TabIndex = 6;
             // 
             // label4
             // 
@@ -156,7 +130,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(242, 44);
+            this.textBox1.Location = new System.Drawing.Point(217, 44);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(202, 20);
             this.textBox1.TabIndex = 1;
@@ -193,11 +167,44 @@
             this.xToolStripMenuItem.Text = "X";
             this.xToolStripMenuItem.Click += new System.EventHandler(this.XToolStripMenuItem_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(90, 273);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(31, 13);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Lote:";
+            // 
+            // id_lote
+            // 
+            this.id_lote.Location = new System.Drawing.Point(219, 270);
+            this.id_lote.Name = "id_lote";
+            this.id_lote.Size = new System.Drawing.Size(200, 20);
+            this.id_lote.TabIndex = 12;
+            this.id_lote.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // nom_modalidad
+            // 
+            this.nom_modalidad.Location = new System.Drawing.Point(217, 178);
+            this.nom_modalidad.Name = "nom_modalidad";
+            this.nom_modalidad.Size = new System.Drawing.Size(202, 20);
+            this.nom_modalidad.TabIndex = 13;
+            this.nom_modalidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // nom_condicion
+            // 
+            this.nom_condicion.Location = new System.Drawing.Point(217, 220);
+            this.nom_condicion.Name = "nom_condicion";
+            this.nom_condicion.Size = new System.Drawing.Size(202, 20);
+            this.nom_condicion.TabIndex = 14;
+            this.nom_condicion.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Nuevo_Registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(627, 341);
+            this.ClientSize = new System.Drawing.Size(627, 409);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -221,13 +228,15 @@
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.TextBox institucion;
         private System.Windows.Forms.Button Guardar;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem xToolStripMenuItem;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox id_lote;
+        private System.Windows.Forms.TextBox nom_condicion;
+        private System.Windows.Forms.TextBox nom_modalidad;
     }
 }

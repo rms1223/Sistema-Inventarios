@@ -1,6 +1,8 @@
-﻿using InventarioFod.Clases;
+﻿using ExcelDataReader;
+using InventarioFod.Clases;
 using InventarioFod.Formularios.Acciones;
 using System;
+using System.IO;
 using System.Windows.Forms;
 
 namespace InventarioFod.Formularios.Inventarios
@@ -16,7 +18,7 @@ namespace InventarioFod.Formularios.Inventarios
             numericUpDown1.Visible = false;
             numericUpDown1.Value = 9;
             baseDatos = Conexion_db_Mysql.Get_Instance;
-            manejo_de_datos = new Manejo_Documento_Excel(dataGridView1);
+            manejo_de_datos = new Manejo_Documento_Excel(datos_equipos);
             manejo_de_datos.Cargar_orden_equipoNuevo();
             baseDatos.GET_Lotes();
             foreach (var item in baseDatos.carteles)
@@ -49,8 +51,8 @@ namespace InventarioFod.Formularios.Inventarios
                     manejo_de_datos.Procesar_ingreso_equipoNuevo(id_tipo.Text, txt_placa.Text, txt_serie.Text, nombre_tipo.Text, comboBox1.SelectedItem.ToString());
                     txt_placa.Text = string.Empty;
                     txt_serie.Text = string.Empty;
-                    contador_total.Text = Convert.ToString(dataGridView1.RowCount - 1);
-                    dataGridView1.FirstDisplayedScrollingRowIndex = dataGridView1.RowCount - 1;
+                    contador_total.Text = Convert.ToString(datos_equipos.RowCount - 1);
+                    datos_equipos.FirstDisplayedScrollingRowIndex = datos_equipos.RowCount - 1;
                 }
                 else
                 {
@@ -121,7 +123,7 @@ namespace InventarioFod.Formularios.Inventarios
         }
         private void DataGridView1_CellStateChanged(object sender, DataGridViewCellStateChangedEventArgs e)
         {
-            contador_total.Text= Convert.ToString(dataGridView1.RowCount - 1);
+            contador_total.Text= Convert.ToString(datos_equipos.RowCount - 1);
         }
 
         private bool validar_placa(string placa)
@@ -137,5 +139,67 @@ namespace InventarioFod.Formularios.Inventarios
                 return false;
             }
         }
+
+        private void PictureBox2_Click(object sender, EventArgs e)
+        {
+            datos_equipos.Rows.Clear();
+            Importar_excel_Equipos();
+        }
+
+        public void Importar_excel_Equipos()
+        {
+            try
+            {
+                OpenFileDialog file = new OpenFileDialog
+                {
+                    Filter = "Archivos excel (*.xlsx)|*.xlsx|All files (*.*)|*.*",
+                    Title = "Seleccionar archivo: "
+                };
+                if (file.ShowDialog() == DialogResult.OK)
+                {
+                    if (file.FileName.Equals("") == false)
+                    {
+                        string ruta_archivo = file.FileName;
+                        using (var stream = File.Open(ruta_archivo, FileMode.Open, FileAccess.Read))
+                        {
+                            using (var reader = ExcelReaderFactory.CreateReader(stream))
+                            {
+
+                                do
+                                {
+
+                                    while (reader.Read())
+                                    {
+                                        string data = Convert.ToString(reader.GetValue(0));
+                                        if (!string.IsNullOrEmpty(data))
+                                        {
+                                            if (data.Equals("Codigo")) continue;
+                                            string _codigo = Convert.ToString(reader.GetValue(0));
+                                            string _placa = Convert.ToString(reader.GetValue(1));
+                                            string _cartel = Convert.ToString(reader.GetValue(4));
+                                            
+                                            datos_equipos.Rows.Add(_codigo,_placa,
+                                                 reader.GetString(2), reader.GetString(3), _cartel);
+                                            contador_total.Text = Convert.ToString(datos_equipos.RowCount - 1);
+                                            datos_equipos.FirstDisplayedScrollingRowIndex = datos_equipos.RowCount - 1;
+                                        }
+
+                                    }
+
+                                } while (reader.NextResult());
+                            }
+                        }
+
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al procesar\n" + ex);
+
+            }
+
+        }
+
     }
 }

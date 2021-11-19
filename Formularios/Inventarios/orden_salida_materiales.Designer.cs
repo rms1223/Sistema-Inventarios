@@ -38,17 +38,19 @@
             this.tecnicos = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.materiales_salida = new System.Windows.Forms.DataGridView();
             this.label3 = new System.Windows.Forms.Label();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.descripcion_material = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.orden_trabajo = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.add_user = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.materiales_salida)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.add_user)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -73,13 +75,14 @@
             // groupBox1
             // 
             this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.groupBox1.Controls.Add(this.add_user);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.descripcion);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.tecnicos);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.dataGridView1);
+            this.groupBox1.Controls.Add(this.materiales_salida);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.numericUpDown1);
             this.groupBox1.Controls.Add(this.descripcion_material);
@@ -113,6 +116,7 @@
             // 
             // button2
             // 
+            this.button2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
@@ -125,6 +129,7 @@
             // 
             // tecnicos
             // 
+            this.tecnicos.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.tecnicos.FormattingEnabled = true;
             this.tecnicos.Items.AddRange(new object[] {
             "ANDREI",
@@ -142,6 +147,7 @@
             // 
             // label4
             // 
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(127, 477);
             this.label4.Name = "label4";
@@ -161,16 +167,18 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
-            // dataGridView1
+            // materiales_salida
             // 
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(42, 264);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(528, 192);
-            this.dataGridView1.TabIndex = 6;
+            this.materiales_salida.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.materiales_salida.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.materiales_salida.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.materiales_salida.BackgroundColor = System.Drawing.Color.White;
+            this.materiales_salida.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.materiales_salida.Location = new System.Drawing.Point(42, 264);
+            this.materiales_salida.Name = "materiales_salida";
+            this.materiales_salida.Size = new System.Drawing.Size(528, 192);
+            this.materiales_salida.TabIndex = 6;
             // 
             // label3
             // 
@@ -185,7 +193,7 @@
             // 
             this.numericUpDown1.Location = new System.Drawing.Point(442, 191);
             this.numericUpDown1.Maximum = new decimal(new int[] {
-            1000,
+            100000,
             0,
             0,
             0});
@@ -233,6 +241,19 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Numero de Orden:";
             // 
+            // add_user
+            // 
+            this.add_user.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.add_user.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.add_user.Image = ((System.Drawing.Image)(resources.GetObject("add_user.Image")));
+            this.add_user.Location = new System.Drawing.Point(89, 474);
+            this.add_user.Name = "add_user";
+            this.add_user.Size = new System.Drawing.Size(32, 21);
+            this.add_user.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.add_user.TabIndex = 13;
+            this.add_user.TabStop = false;
+            this.add_user.Click += new System.EventHandler(this.PictureBox1_Click);
+            // 
             // Orden_salida_materiales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -249,8 +270,9 @@
             this.menuStrip1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.materiales_salida)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.add_user)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -269,10 +291,11 @@
         private System.Windows.Forms.ComboBox tecnicos;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView materiales_salida;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox descripcion;
+        private System.Windows.Forms.PictureBox add_user;
     }
 }

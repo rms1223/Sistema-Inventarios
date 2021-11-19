@@ -2,6 +2,7 @@
 using InventarioFod.Clases.Manejo_De_Datos.Conexion_DB;
 using InventarioFod.Formularios.Acciones;
 using InventarioFod.Formularios.Inventarios.materiales_pedidos;
+using InventarioFod.Reportes;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -218,6 +219,14 @@ namespace InventarioFod
         {
             Pedidos_Materiales PM = new Pedidos_Materiales(orden_trabajo.Text);
             PM.Show();
+        }
+
+        private void LinkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+            VerPediddo verPediddo = new VerPediddo(orden_trabajo.Text);
+            verPediddo.Show();
+
         }
     }
 }

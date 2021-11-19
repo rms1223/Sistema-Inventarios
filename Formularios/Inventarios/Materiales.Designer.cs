@@ -45,12 +45,12 @@
             this.xToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.opcionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.registrarProductoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.ingreso_materiales = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.cant_materialesIngreso)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ingreso_materiales)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -75,7 +75,7 @@
             // 
             this.cant_materialesIngreso.Location = new System.Drawing.Point(421, 160);
             this.cant_materialesIngreso.Maximum = new decimal(new int[] {
-            1000,
+            100000,
             0,
             0,
             0});
@@ -119,7 +119,7 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Location = new System.Drawing.Point(14, 3);
+            this.groupBox1.Location = new System.Drawing.Point(174, 3);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(590, 230);
             this.groupBox1.TabIndex = 7;
@@ -181,7 +181,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 24);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(614, 239);
+            this.panel1.Size = new System.Drawing.Size(935, 239);
             this.panel1.TabIndex = 8;
             // 
             // menuStrip1
@@ -191,7 +191,7 @@
             this.opcionesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(614, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(935, 24);
             this.menuStrip1.TabIndex = 9;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -220,26 +220,26 @@
             this.registrarProductoToolStripMenuItem.Text = "Registrar Producto";
             this.registrarProductoToolStripMenuItem.Click += new System.EventHandler(this.RegistrarProductoToolStripMenuItem_Click);
             // 
-            // dataGridView1
+            // ingreso_materiales
             // 
-            this.dataGridView1.AllowUserToOrderColumns = true;
-            this.dataGridView1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 263);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(614, 265);
-            this.dataGridView1.TabIndex = 0;
+            this.ingreso_materiales.AllowUserToOrderColumns = true;
+            this.ingreso_materiales.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.ingreso_materiales.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.ingreso_materiales.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.ingreso_materiales.BackgroundColor = System.Drawing.Color.White;
+            this.ingreso_materiales.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.ingreso_materiales.Location = new System.Drawing.Point(100, 263);
+            this.ingreso_materiales.Name = "ingreso_materiales";
+            this.ingreso_materiales.Size = new System.Drawing.Size(709, 265);
+            this.ingreso_materiales.TabIndex = 0;
             // 
             // Materiales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(614, 528);
-            this.Controls.Add(this.dataGridView1);
+            this.ClientSize = new System.Drawing.Size(935, 528);
+            this.Controls.Add(this.ingreso_materiales);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -253,7 +253,7 @@
             this.panel1.ResumeLayout(false);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ingreso_materiales)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -276,6 +276,6 @@
         private System.Windows.Forms.ToolStripMenuItem registrarProductoToolStripMenuItem;
         private System.Windows.Forms.TextBox descripcion;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView ingreso_materiales;
     }
 }

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inventario_fod>
+  <conf_db>
+    <user>userConnect</user>
+    <pass>UserAc$2019</pass>
+    <server>192.168.10.6</server>
+    <name_database>acs_sistema</name_database>
+    <name_database2>acs_sistema_viejo</name_database2>
+  </conf_db>
+</inventario_fod>

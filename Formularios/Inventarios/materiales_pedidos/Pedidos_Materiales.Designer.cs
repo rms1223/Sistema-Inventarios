@@ -634,6 +634,11 @@
             this.cant_proyector.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_proyector.ForeColor = System.Drawing.Color.Red;
             this.cant_proyector.Location = new System.Drawing.Point(180, 42);
+            this.cant_proyector.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_proyector.Name = "cant_proyector";
             this.cant_proyector.Size = new System.Drawing.Size(45, 20);
             this.cant_proyector.TabIndex = 39;
@@ -654,6 +659,11 @@
             this.cant_bultoproyector.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_bultoproyector.ForeColor = System.Drawing.Color.Red;
             this.cant_bultoproyector.Location = new System.Drawing.Point(386, 12);
+            this.cant_bultoproyector.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_bultoproyector.Name = "cant_bultoproyector";
             this.cant_bultoproyector.Size = new System.Drawing.Size(45, 20);
             this.cant_bultoproyector.TabIndex = 47;
@@ -674,6 +684,11 @@
             this.cant_hdmi.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_hdmi.ForeColor = System.Drawing.Color.Red;
             this.cant_hdmi.Location = new System.Drawing.Point(386, 48);
+            this.cant_hdmi.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_hdmi.Name = "cant_hdmi";
             this.cant_hdmi.Size = new System.Drawing.Size(45, 20);
             this.cant_hdmi.TabIndex = 49;
@@ -694,6 +709,11 @@
             this.cant_vga.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_vga.ForeColor = System.Drawing.Color.Red;
             this.cant_vga.Location = new System.Drawing.Point(386, 76);
+            this.cant_vga.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_vga.Name = "cant_vga";
             this.cant_vga.Size = new System.Drawing.Size(45, 20);
             this.cant_vga.TabIndex = 51;
@@ -721,6 +741,11 @@
             this.cant_regleta.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_regleta.ForeColor = System.Drawing.Color.Red;
             this.cant_regleta.Location = new System.Drawing.Point(386, 44);
+            this.cant_regleta.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_regleta.Name = "cant_regleta";
             this.cant_regleta.Size = new System.Drawing.Size(45, 20);
             this.cant_regleta.TabIndex = 49;
@@ -741,6 +766,11 @@
             this.cant_estension.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estension.ForeColor = System.Drawing.Color.Red;
             this.cant_estension.Location = new System.Drawing.Point(386, 8);
+            this.cant_estension.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estension.Name = "cant_estension";
             this.cant_estension.Size = new System.Drawing.Size(45, 20);
             this.cant_estension.TabIndex = 47;
@@ -770,6 +800,11 @@
             this.cant_ups1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_ups1.ForeColor = System.Drawing.Color.Red;
             this.cant_ups1.Location = new System.Drawing.Point(176, 8);
+            this.cant_ups1.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_ups1.Name = "cant_ups1";
             this.cant_ups1.Size = new System.Drawing.Size(45, 20);
             this.cant_ups1.TabIndex = 27;
@@ -790,6 +825,11 @@
             this.cant_ups2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_ups2.ForeColor = System.Drawing.Color.Red;
             this.cant_ups2.Location = new System.Drawing.Point(176, 44);
+            this.cant_ups2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_ups2.Name = "cant_ups2";
             this.cant_ups2.Size = new System.Drawing.Size(45, 20);
             this.cant_ups2.TabIndex = 29;
@@ -828,6 +868,11 @@
             this.cant_servidor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_servidor.ForeColor = System.Drawing.Color.Red;
             this.cant_servidor.Location = new System.Drawing.Point(176, 10);
+            this.cant_servidor.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_servidor.Name = "cant_servidor";
             this.cant_servidor.Size = new System.Drawing.Size(45, 20);
             this.cant_servidor.TabIndex = 23;
@@ -848,6 +893,11 @@
             this.cant_nas.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_nas.ForeColor = System.Drawing.Color.Red;
             this.cant_nas.Location = new System.Drawing.Point(176, 46);
+            this.cant_nas.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_nas.Name = "cant_nas";
             this.cant_nas.Size = new System.Drawing.Size(45, 20);
             this.cant_nas.TabIndex = 25;
@@ -868,6 +918,11 @@
             this.cant_teclado.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_teclado.ForeColor = System.Drawing.Color.Red;
             this.cant_teclado.Location = new System.Drawing.Point(386, 8);
+            this.cant_teclado.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_teclado.Name = "cant_teclado";
             this.cant_teclado.Size = new System.Drawing.Size(45, 20);
             this.cant_teclado.TabIndex = 31;
@@ -888,6 +943,11 @@
             this.cant_mouseserver.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_mouseserver.ForeColor = System.Drawing.Color.Red;
             this.cant_mouseserver.Location = new System.Drawing.Point(386, 44);
+            this.cant_mouseserver.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_mouseserver.Name = "cant_mouseserver";
             this.cant_mouseserver.Size = new System.Drawing.Size(45, 20);
             this.cant_mouseserver.TabIndex = 33;
@@ -908,6 +968,11 @@
             this.cant_candado.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_candado.ForeColor = System.Drawing.Color.Red;
             this.cant_candado.Location = new System.Drawing.Point(386, 78);
+            this.cant_candado.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_candado.Name = "cant_candado";
             this.cant_candado.Size = new System.Drawing.Size(45, 20);
             this.cant_candado.TabIndex = 35;
@@ -952,6 +1017,11 @@
             this.cant_audifonos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_audifonos.ForeColor = System.Drawing.Color.Red;
             this.cant_audifonos.Location = new System.Drawing.Point(386, 14);
+            this.cant_audifonos.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_audifonos.Name = "cant_audifonos";
             this.cant_audifonos.Size = new System.Drawing.Size(45, 20);
             this.cant_audifonos.TabIndex = 15;
@@ -972,6 +1042,11 @@
             this.cant_mouse.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_mouse.ForeColor = System.Drawing.Color.Red;
             this.cant_mouse.Location = new System.Drawing.Point(386, 50);
+            this.cant_mouse.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_mouse.Name = "cant_mouse";
             this.cant_mouse.Size = new System.Drawing.Size(45, 20);
             this.cant_mouse.TabIndex = 17;
@@ -992,6 +1067,11 @@
             this.cant_convertirdor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_convertirdor.ForeColor = System.Drawing.Color.Red;
             this.cant_convertirdor.Location = new System.Drawing.Point(386, 84);
+            this.cant_convertirdor.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_convertirdor.Name = "cant_convertirdor";
             this.cant_convertirdor.Size = new System.Drawing.Size(45, 20);
             this.cant_convertirdor.TabIndex = 19;
@@ -1012,6 +1092,11 @@
             this.cant_maleport.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_maleport.ForeColor = System.Drawing.Color.Red;
             this.cant_maleport.Location = new System.Drawing.Point(386, 120);
+            this.cant_maleport.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_maleport.Name = "cant_maleport";
             this.cant_maleport.Size = new System.Drawing.Size(45, 20);
             this.cant_maleport.TabIndex = 21;
@@ -1032,6 +1117,11 @@
             this.cant_docente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_docente.ForeColor = System.Drawing.Color.Red;
             this.cant_docente.Location = new System.Drawing.Point(176, 16);
+            this.cant_docente.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_docente.Name = "cant_docente";
             this.cant_docente.Size = new System.Drawing.Size(45, 20);
             this.cant_docente.TabIndex = 7;
@@ -1052,6 +1142,11 @@
             this.cant_preescolar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_preescolar.ForeColor = System.Drawing.Color.Red;
             this.cant_preescolar.Location = new System.Drawing.Point(176, 52);
+            this.cant_preescolar.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_preescolar.Name = "cant_preescolar";
             this.cant_preescolar.Size = new System.Drawing.Size(45, 20);
             this.cant_preescolar.TabIndex = 9;
@@ -1072,6 +1167,11 @@
             this.cant_estu1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estu1.ForeColor = System.Drawing.Color.Red;
             this.cant_estu1.Location = new System.Drawing.Point(176, 86);
+            this.cant_estu1.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estu1.Name = "cant_estu1";
             this.cant_estu1.Size = new System.Drawing.Size(45, 20);
             this.cant_estu1.TabIndex = 11;
@@ -1092,6 +1192,11 @@
             this.cant_estu2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estu2.ForeColor = System.Drawing.Color.Red;
             this.cant_estu2.Location = new System.Drawing.Point(176, 122);
+            this.cant_estu2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estu2.Name = "cant_estu2";
             this.cant_estu2.Size = new System.Drawing.Size(45, 20);
             this.cant_estu2.TabIndex = 13;
@@ -1431,6 +1536,11 @@
             this.cant_proyector2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_proyector2.ForeColor = System.Drawing.Color.Red;
             this.cant_proyector2.Location = new System.Drawing.Point(180, 42);
+            this.cant_proyector2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_proyector2.Name = "cant_proyector2";
             this.cant_proyector2.Size = new System.Drawing.Size(45, 20);
             this.cant_proyector2.TabIndex = 39;
@@ -1450,6 +1560,11 @@
             this.cant_bultoproyector2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_bultoproyector2.ForeColor = System.Drawing.Color.Red;
             this.cant_bultoproyector2.Location = new System.Drawing.Point(386, 12);
+            this.cant_bultoproyector2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_bultoproyector2.Name = "cant_bultoproyector2";
             this.cant_bultoproyector2.Size = new System.Drawing.Size(45, 20);
             this.cant_bultoproyector2.TabIndex = 47;
@@ -1469,6 +1584,11 @@
             this.cant_hdmi2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_hdmi2.ForeColor = System.Drawing.Color.Red;
             this.cant_hdmi2.Location = new System.Drawing.Point(386, 48);
+            this.cant_hdmi2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_hdmi2.Name = "cant_hdmi2";
             this.cant_hdmi2.Size = new System.Drawing.Size(45, 20);
             this.cant_hdmi2.TabIndex = 49;
@@ -1488,6 +1608,11 @@
             this.cant_vga2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_vga2.ForeColor = System.Drawing.Color.Red;
             this.cant_vga2.Location = new System.Drawing.Point(386, 76);
+            this.cant_vga2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_vga2.Name = "cant_vga2";
             this.cant_vga2.Size = new System.Drawing.Size(45, 20);
             this.cant_vga2.TabIndex = 51;
@@ -1514,6 +1639,11 @@
             this.cant_regleta2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_regleta2.ForeColor = System.Drawing.Color.Red;
             this.cant_regleta2.Location = new System.Drawing.Point(386, 44);
+            this.cant_regleta2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_regleta2.Name = "cant_regleta2";
             this.cant_regleta2.Size = new System.Drawing.Size(45, 20);
             this.cant_regleta2.TabIndex = 49;
@@ -1533,6 +1663,11 @@
             this.cant_estension2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estension2.ForeColor = System.Drawing.Color.Red;
             this.cant_estension2.Location = new System.Drawing.Point(386, 8);
+            this.cant_estension2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estension2.Name = "cant_estension2";
             this.cant_estension2.Size = new System.Drawing.Size(45, 20);
             this.cant_estension2.TabIndex = 47;
@@ -1561,6 +1696,11 @@
             this.cant_ups1_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_ups1_2.ForeColor = System.Drawing.Color.Red;
             this.cant_ups1_2.Location = new System.Drawing.Point(176, 8);
+            this.cant_ups1_2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_ups1_2.Name = "cant_ups1_2";
             this.cant_ups1_2.Size = new System.Drawing.Size(45, 20);
             this.cant_ups1_2.TabIndex = 27;
@@ -1580,6 +1720,11 @@
             this.cant_ups2_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_ups2_2.ForeColor = System.Drawing.Color.Red;
             this.cant_ups2_2.Location = new System.Drawing.Point(176, 44);
+            this.cant_ups2_2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_ups2_2.Name = "cant_ups2_2";
             this.cant_ups2_2.Size = new System.Drawing.Size(45, 20);
             this.cant_ups2_2.TabIndex = 29;
@@ -1617,6 +1762,11 @@
             this.cant_servidor2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_servidor2.ForeColor = System.Drawing.Color.Red;
             this.cant_servidor2.Location = new System.Drawing.Point(176, 10);
+            this.cant_servidor2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_servidor2.Name = "cant_servidor2";
             this.cant_servidor2.Size = new System.Drawing.Size(45, 20);
             this.cant_servidor2.TabIndex = 23;
@@ -1636,6 +1786,11 @@
             this.cant_nas2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_nas2.ForeColor = System.Drawing.Color.Red;
             this.cant_nas2.Location = new System.Drawing.Point(176, 46);
+            this.cant_nas2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_nas2.Name = "cant_nas2";
             this.cant_nas2.Size = new System.Drawing.Size(45, 20);
             this.cant_nas2.TabIndex = 25;
@@ -1655,6 +1810,11 @@
             this.cant_teclado2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_teclado2.ForeColor = System.Drawing.Color.Red;
             this.cant_teclado2.Location = new System.Drawing.Point(386, 8);
+            this.cant_teclado2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_teclado2.Name = "cant_teclado2";
             this.cant_teclado2.Size = new System.Drawing.Size(45, 20);
             this.cant_teclado2.TabIndex = 31;
@@ -1674,6 +1834,11 @@
             this.cant_mouseserver2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_mouseserver2.ForeColor = System.Drawing.Color.Red;
             this.cant_mouseserver2.Location = new System.Drawing.Point(386, 44);
+            this.cant_mouseserver2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_mouseserver2.Name = "cant_mouseserver2";
             this.cant_mouseserver2.Size = new System.Drawing.Size(45, 20);
             this.cant_mouseserver2.TabIndex = 33;
@@ -1693,6 +1858,11 @@
             this.cant_candado2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_candado2.ForeColor = System.Drawing.Color.Red;
             this.cant_candado2.Location = new System.Drawing.Point(386, 78);
+            this.cant_candado2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_candado2.Name = "cant_candado2";
             this.cant_candado2.Size = new System.Drawing.Size(45, 20);
             this.cant_candado2.TabIndex = 35;
@@ -1736,6 +1906,11 @@
             this.cant_audifonos2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_audifonos2.ForeColor = System.Drawing.Color.Red;
             this.cant_audifonos2.Location = new System.Drawing.Point(386, 14);
+            this.cant_audifonos2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_audifonos2.Name = "cant_audifonos2";
             this.cant_audifonos2.Size = new System.Drawing.Size(45, 20);
             this.cant_audifonos2.TabIndex = 15;
@@ -1755,6 +1930,11 @@
             this.cant_mouse2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_mouse2.ForeColor = System.Drawing.Color.Red;
             this.cant_mouse2.Location = new System.Drawing.Point(386, 50);
+            this.cant_mouse2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_mouse2.Name = "cant_mouse2";
             this.cant_mouse2.Size = new System.Drawing.Size(45, 20);
             this.cant_mouse2.TabIndex = 17;
@@ -1774,6 +1954,11 @@
             this.cant_convertirdor2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_convertirdor2.ForeColor = System.Drawing.Color.Red;
             this.cant_convertirdor2.Location = new System.Drawing.Point(386, 84);
+            this.cant_convertirdor2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_convertirdor2.Name = "cant_convertirdor2";
             this.cant_convertirdor2.Size = new System.Drawing.Size(45, 20);
             this.cant_convertirdor2.TabIndex = 19;
@@ -1793,6 +1978,11 @@
             this.cant_maleport2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_maleport2.ForeColor = System.Drawing.Color.Red;
             this.cant_maleport2.Location = new System.Drawing.Point(386, 120);
+            this.cant_maleport2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_maleport2.Name = "cant_maleport2";
             this.cant_maleport2.Size = new System.Drawing.Size(45, 20);
             this.cant_maleport2.TabIndex = 21;
@@ -1812,6 +2002,11 @@
             this.cant_docente2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_docente2.ForeColor = System.Drawing.Color.Red;
             this.cant_docente2.Location = new System.Drawing.Point(176, 16);
+            this.cant_docente2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_docente2.Name = "cant_docente2";
             this.cant_docente2.Size = new System.Drawing.Size(45, 20);
             this.cant_docente2.TabIndex = 7;
@@ -1831,6 +2026,11 @@
             this.cant_preescolar2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_preescolar2.ForeColor = System.Drawing.Color.Red;
             this.cant_preescolar2.Location = new System.Drawing.Point(176, 52);
+            this.cant_preescolar2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_preescolar2.Name = "cant_preescolar2";
             this.cant_preescolar2.Size = new System.Drawing.Size(45, 20);
             this.cant_preescolar2.TabIndex = 9;
@@ -1850,6 +2050,11 @@
             this.cant_estu1_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estu1_2.ForeColor = System.Drawing.Color.Red;
             this.cant_estu1_2.Location = new System.Drawing.Point(176, 86);
+            this.cant_estu1_2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estu1_2.Name = "cant_estu1_2";
             this.cant_estu1_2.Size = new System.Drawing.Size(45, 20);
             this.cant_estu1_2.TabIndex = 11;
@@ -1869,6 +2074,11 @@
             this.cant_estu2_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cant_estu2_2.ForeColor = System.Drawing.Color.Red;
             this.cant_estu2_2.Location = new System.Drawing.Point(176, 122);
+            this.cant_estu2_2.Maximum = new decimal(new int[] {
+            10000,
+            0,
+            0,
+            0});
             this.cant_estu2_2.Name = "cant_estu2_2";
             this.cant_estu2_2.Size = new System.Drawing.Size(45, 20);
             this.cant_estu2_2.TabIndex = 13;

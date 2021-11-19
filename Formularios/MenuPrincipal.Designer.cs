@@ -85,8 +85,7 @@
             treeNode28});
             this.panel1 = new System.Windows.Forms.Panel();
             this.statusStrip2 = new System.Windows.Forms.StatusStrip();
-            this.label3 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel5 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.ordenes_pendientes = new System.Windows.Forms.ToolStripStatusLabel();
             this.count_orden = new System.Windows.Forms.ToolStripStatusLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.treeView1 = new System.Windows.Forms.TreeView();
@@ -102,10 +101,6 @@
             this.toolStripStatusLabel3 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.estado_label = new System.Windows.Forms.ToolStripStatusLabel();
-            this.estado_conLabel = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel4 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.message_status = new System.Windows.Forms.ToolStripStatusLabel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
@@ -133,36 +128,29 @@
             // statusStrip2
             // 
             this.statusStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.label3,
-            this.toolStripStatusLabel5,
+            this.ordenes_pendientes,
             this.count_orden});
-            this.statusStrip2.Location = new System.Drawing.Point(0, 651);
+            this.statusStrip2.Location = new System.Drawing.Point(0, 652);
             this.statusStrip2.Name = "statusStrip2";
-            this.statusStrip2.Size = new System.Drawing.Size(256, 23);
+            this.statusStrip2.Size = new System.Drawing.Size(256, 22);
             this.statusStrip2.TabIndex = 5;
             this.statusStrip2.Text = "statusStrip2";
             // 
-            // label3
+            // ordenes_pendientes
             // 
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.label3.Name = "label3";
-            this.label3.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
-            this.label3.Size = new System.Drawing.Size(56, 18);
-            this.label3.Text = "label3";
-            // 
-            // toolStripStatusLabel5
-            // 
-            this.toolStripStatusLabel5.Name = "toolStripStatusLabel5";
-            this.toolStripStatusLabel5.Size = new System.Drawing.Size(115, 18);
-            this.toolStripStatusLabel5.Text = "Ordenes Pendientes:";
+            this.ordenes_pendientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ordenes_pendientes.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.ordenes_pendientes.Name = "ordenes_pendientes";
+            this.ordenes_pendientes.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.ordenes_pendientes.Size = new System.Drawing.Size(132, 17);
+            this.ordenes_pendientes.Text = "Ordenes Pendientes:";
             // 
             // count_orden
             // 
             this.count_orden.ActiveLinkColor = System.Drawing.Color.Red;
             this.count_orden.ForeColor = System.Drawing.Color.Blue;
             this.count_orden.Name = "count_orden";
-            this.count_orden.Size = new System.Drawing.Size(13, 18);
+            this.count_orden.Size = new System.Drawing.Size(13, 17);
             this.count_orden.Text = "0";
             // 
             // pictureBox1
@@ -446,11 +434,7 @@
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel3,
             this.toolStripStatusLabel1,
-            this.toolStripStatusLabel2,
-            this.estado_label,
-            this.estado_conLabel,
-            this.toolStripStatusLabel4,
-            this.message_status});
+            this.toolStripStatusLabel2});
             this.statusStrip1.Location = new System.Drawing.Point(258, 652);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -489,33 +473,8 @@
             this.toolStripStatusLabel2.Margin = new System.Windows.Forms.Padding(10, 3, 0, 2);
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
             this.toolStripStatusLabel2.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            this.toolStripStatusLabel2.Size = new System.Drawing.Size(151, 19);
-            this.toolStripStatusLabel2.Text = "toolStripStatusLabel2";
-            // 
-            // estado_label
-            // 
-            this.estado_label.Name = "estado_label";
-            this.estado_label.Size = new System.Drawing.Size(85, 19);
-            this.estado_label.Text = "Estado de RED:";
-            // 
-            // estado_conLabel
-            // 
-            this.estado_conLabel.Name = "estado_conLabel";
-            this.estado_conLabel.Size = new System.Drawing.Size(118, 19);
-            this.estado_conLabel.Text = "toolStripStatusLabel4";
-            // 
-            // toolStripStatusLabel4
-            // 
-            this.toolStripStatusLabel4.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Left;
-            this.toolStripStatusLabel4.Name = "toolStripStatusLabel4";
-            this.toolStripStatusLabel4.Size = new System.Drawing.Size(95, 19);
-            this.toolStripStatusLabel4.Text = "Estado Servidor:";
-            // 
-            // message_status
-            // 
-            this.message_status.Name = "message_status";
-            this.message_status.Size = new System.Drawing.Size(51, 19);
-            this.message_status.Text = "Mensaje";
+            this.toolStripStatusLabel2.Size = new System.Drawing.Size(81, 19);
+            this.toolStripStatusLabel2.Text = "Fecha";
             // 
             // panel2
             // 
@@ -586,14 +545,9 @@
         private System.Windows.Forms.ToolStripMenuItem opciones;
         private System.Windows.Forms.ToolStripMenuItem agregarUsuariosToolStripMenuItem;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.ToolStripStatusLabel estado_label;
-        private System.Windows.Forms.ToolStripStatusLabel estado_conLabel;
-        private System.Windows.Forms.ToolStripStatusLabel message_status;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel4;
         private System.Windows.Forms.StatusStrip statusStrip2;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel5;
         private System.Windows.Forms.ToolStripStatusLabel count_orden;
         private System.Windows.Forms.Timer timer2;
-        private System.Windows.Forms.ToolStripStatusLabel label3;
+        private System.Windows.Forms.ToolStripStatusLabel ordenes_pendientes;
     }
 }

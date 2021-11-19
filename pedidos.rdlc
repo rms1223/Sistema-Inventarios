@@ -169,10 +169,18 @@
           <DataField>id_orden</DataField>
           <rd:TypeName>System.Int32</rd:TypeName>
         </Field>
+        <Field Name="lote">
+          <DataField>lote</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="observaciones">
+          <DataField>observaciones</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>reportesdataset</rd:DataSetName>
-        <rd:SchemaPath>D:\Documentos\Visual Studio 2017\Projects\InventarioACS\reportesdataset.xsd</rd:SchemaPath>
+        <rd:SchemaPath>E:\Escritorio\InventarioACS\reportesdataset.xsd</rd:SchemaPath>
         <rd:TableName>pedidos</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -190,7 +198,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Pedidos Orden: </Value>
+                    <Value>Número de Orden de la Solicitud: </Value>
                     <Style>
                       <FontSize>16pt</FontSize>
                       <FontWeight>Bold</FontWeight>
@@ -842,7 +850,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Servidor DELL</Value>
+                        <Value>Servidor</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -1196,7 +1204,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>UPS-1011</Value>
+                        <Value>UPS-1</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -1229,7 +1237,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>UPS-401</Value>
+                        <Value>UPS-2</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -2053,7 +2061,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Ap Interno MR20</Value>
+                        <Value>Ap Interno</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -2087,7 +2095,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Ap Externo MR70</Value>
+                        <Value>Ap Externo</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -2223,7 +2231,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Parlantes KWS-616</Value>
+                        <Value>ParlanteS-1</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -2257,7 +2265,7 @@
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Parlantes  Genius</Value>
+                        <Value>Parlantes-2</Value>
                         <Style>
                           <FontSize>8pt</FontSize>
                         </Style>
@@ -2717,7 +2725,17 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Observaciones: </Value>
+                    <Value>Observaciones</Value>
+                    <Style>
+                      <FontWeight>Medium</FontWeight>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>:  </Value>
+                    <Style />
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Fields!observaciones.Value</Value>
                     <Style />
                   </TextRun>
                 </TextRuns>
@@ -2725,10 +2743,10 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox97</rd:DefaultName>
-            <Top>18.32781cm</Top>
+            <Top>18.06322cm</Top>
             <Left>0.62746cm</Left>
-            <Height>0.6cm</Height>
-            <Width>3.07961cm</Width>
+            <Height>2.3198cm</Height>
+            <Width>17.92893cm</Width>
             <ZIndex>10</ZIndex>
             <Style>
               <Border>
@@ -2740,30 +2758,6 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
-          <Line Name="Line1">
-            <Top>18.92781cm</Top>
-            <Left>3.84076cm</Left>
-            <Height>0cm</Height>
-            <Width>14.74209cm</Width>
-            <ZIndex>11</ZIndex>
-            <Style>
-              <Border>
-                <Style>Solid</Style>
-              </Border>
-            </Style>
-          </Line>
-          <Line Name="Line2">
-            <Top>19.73442cm</Top>
-            <Left>0.65752cm</Left>
-            <Height>0cm</Height>
-            <Width>17.90805cm</Width>
-            <ZIndex>12</ZIndex>
-            <Style>
-              <Border>
-                <Style>Solid</Style>
-              </Border>
-            </Style>
-          </Line>
           <Textbox Name="Textbox98">
             <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
@@ -2771,7 +2765,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Modalidad: </Value>
+                    <Value>Modalidad:      </Value>
                     <Style>
                       <FontSize>9pt</FontSize>
                     </Style>
@@ -2791,7 +2785,7 @@
             <Left>1.00224cm</Left>
             <Height>0.6cm</Height>
             <Width>5.66396cm</Width>
-            <ZIndex>13</ZIndex>
+            <ZIndex>11</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -2809,7 +2803,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Condicion: </Value>
+                    <Value>Condicion:   </Value>
                     <Style>
                       <FontSize>9pt</FontSize>
                     </Style>
@@ -2828,8 +2822,8 @@
             <Top>3.09245cm</Top>
             <Left>8.34455cm</Left>
             <Height>0.6cm</Height>
-            <Width>3.73618cm</Width>
-            <ZIndex>14</ZIndex>
+            <Width>5.17881cm</Width>
+            <ZIndex>12</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -2847,7 +2841,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Código: </Value>
+                    <Value>Código:           </Value>
                     <Style>
                       <FontSize>9pt</FontSize>
                     </Style>
@@ -2866,8 +2860,8 @@
             <Top>3.9513cm</Top>
             <Left>1.00224cm</Left>
             <Height>0.73229cm</Height>
-            <Width>4.43084cm</Width>
-            <ZIndex>15</ZIndex>
+            <Width>5.66396cm</Width>
+            <ZIndex>13</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -2897,7 +2891,45 @@
             <Left>8.29163cm</Left>
             <Height>0.6cm</Height>
             <Width>10.29122cm</Width>
-            <ZIndex>16</ZIndex>
+            <ZIndex>14</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox101">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Lote:                </Value>
+                    <Style>
+                      <FontSize>9pt</FontSize>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Fields!lote.Value</Value>
+                    <Style>
+                      <FontSize>9pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox100</rd:DefaultName>
+            <Top>4.95975cm</Top>
+            <Left>1.00224cm</Left>
+            <Height>0.52062cm</Height>
+            <Width>4.43084cm</Width>
+            <ZIndex>15</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>

@@ -1136,6 +1136,10 @@ namespace InventarioFod {
             
             private global::System.Data.DataColumn columnid_orden;
             
+            private global::System.Data.DataColumn columnlote;
+            
+            private global::System.Data.DataColumn columnobservaciones;
+            
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             public pedidosDataTable() {
@@ -1475,6 +1479,22 @@ namespace InventarioFod {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public global::System.Data.DataColumn loteColumn {
+                get {
+                    return this.columnlote;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public global::System.Data.DataColumn observacionesColumn {
+                get {
+                    return this.columnobservaciones;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             [global::System.ComponentModel.Browsable(false)]
             public int Count {
                 get {
@@ -1548,7 +1568,9 @@ namespace InventarioFod {
                         int Cartucho_tinta, 
                         int id_registro, 
                         string fecha_registro, 
-                        int id_orden) {
+                        int id_orden, 
+                        string lote, 
+                        string observaciones) {
                 pedidosRow rowpedidosRow = ((pedidosRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         Codigo_Institucion,
@@ -1588,7 +1610,9 @@ namespace InventarioFod {
                         Cartucho_tinta,
                         id_registro,
                         fecha_registro,
-                        id_orden};
+                        id_orden,
+                        lote,
+                        observaciones};
                 rowpedidosRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowpedidosRow);
                 return rowpedidosRow;
@@ -1649,6 +1673,8 @@ namespace InventarioFod {
                 this.columnid_registro = base.Columns["id_registro"];
                 this.columnfecha_registro = base.Columns["fecha_registro"];
                 this.columnid_orden = base.Columns["id_orden"];
+                this.columnlote = base.Columns["lote"];
+                this.columnobservaciones = base.Columns["observaciones"];
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -1730,6 +1756,10 @@ namespace InventarioFod {
                 base.Columns.Add(this.columnfecha_registro);
                 this.columnid_orden = new global::System.Data.DataColumn("id_orden", typeof(int), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnid_orden);
+                this.columnlote = new global::System.Data.DataColumn("lote", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnlote);
+                this.columnobservaciones = new global::System.Data.DataColumn("observaciones", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnobservaciones);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -4243,6 +4273,38 @@ namespace InventarioFod {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public string lote {
+                get {
+                    try {
+                        return ((string)(this[this.tablepedidos.loteColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("El valor de la columna \'lote\' de la tabla \'pedidos\' es DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tablepedidos.loteColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public string observaciones {
+                get {
+                    try {
+                        return ((string)(this[this.tablepedidos.observacionesColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("El valor de la columna \'observaciones\' de la tabla \'pedidos\' es DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tablepedidos.observacionesColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             public bool IsCodigo_InstitucionNull() {
                 return this.IsNull(this.tablepedidos.Codigo_InstitucionColumn);
             }
@@ -4695,6 +4757,30 @@ namespace InventarioFod {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
             public void Setid_ordenNull() {
                 this[this.tablepedidos.id_ordenColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public bool IsloteNull() {
+                return this.IsNull(this.tablepedidos.loteColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public void SetloteNull() {
+                this[this.tablepedidos.loteColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public bool IsobservacionesNull() {
+                return this.IsNull(this.tablepedidos.observacionesColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
+            public void SetobservacionesNull() {
+                this[this.tablepedidos.observacionesColumn] = global::System.Convert.DBNull;
             }
         }
         

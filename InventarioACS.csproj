@@ -30,7 +30,7 @@
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -74,7 +74,7 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Microsoft_Excel.ico</ApplicationIcon>
+    <ApplicationIcon>descarga %281%29.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>108D8B1B9F4A77EDAE1AB70014E03D36D2B8F832</ManifestCertificateThumbprint>
@@ -164,6 +164,12 @@
     </Compile>
     <Compile Include="Formularios\Inventarios\RegistrarModelosEquipos.Designer.cs">
       <DependentUpon>RegistrarModelosEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Inventarios\usuarios\AddTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Inventarios\usuarios\AddTecnico.Designer.cs">
+      <DependentUpon>AddTecnico.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\Inventarios\usuarios\agregar_usuario.cs">
       <SubType>Form</SubType>
@@ -369,6 +375,12 @@
     <Compile Include="Reportes\orden_salidas.Designer.cs">
       <DependentUpon>orden_salidas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Reportes\VerPediddo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\VerPediddo.Designer.cs">
+      <DependentUpon>VerPediddo.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="cargar.resx">
       <DependentUpon>cargar.cs</DependentUpon>
     </EmbeddedResource>
@@ -383,6 +395,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Inventarios\RegistrarModelosEquipos.resx">
       <DependentUpon>RegistrarModelosEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Inventarios\usuarios\AddTecnico.resx">
+      <DependentUpon>AddTecnico.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Inventarios\usuarios\agregar_usuario.resx">
       <DependentUpon>agregar_usuario.cs</DependentUpon>
@@ -495,6 +510,9 @@
     <EmbeddedResource Include="Reportes\orden_salidas.resx">
       <DependentUpon>orden_salidas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\VerPediddo.resx">
+      <DependentUpon>VerPediddo.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="InventarioFod_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -535,11 +553,15 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="descarga %281%29.ico" />
     <Content Include="Microsoft_Excel.ico" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="DocumentFormat.OpenXml">
       <Version>2.9.1</Version>
+    </PackageReference>
+    <PackageReference Include="ExcelDataReader">
+      <Version>3.6.0</Version>
     </PackageReference>
     <PackageReference Include="Google.Protobuf">
       <Version>3.8.0</Version>

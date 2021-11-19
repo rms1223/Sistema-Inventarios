@@ -11,7 +11,8 @@ namespace InventarioFod.Formularios.Administrativo
         Label institu;
         Label modalidad;
         Label condicion;
-        public Nuevo_Registro(Label codigo, Label institucion, Label moda, Label condi)
+        Label num_Lote;
+        public Nuevo_Registro(Label codigo, Label institucion, Label moda, Label condi, Label lote)
         {
             InitializeComponent();
             base_datos = Conexion_db_Mysql.Get_Instance;
@@ -20,6 +21,7 @@ namespace InventarioFod.Formularios.Administrativo
             institu = institucion;
             modalidad = moda;
             condicion = condi;
+            num_Lote = lote;
         }
 
         private void TextBox1_Leave(object sender, EventArgs e)
@@ -38,8 +40,9 @@ namespace InventarioFod.Formularios.Administrativo
         {
             cod.Text = textBox1.Text;
             institu.Text = institucion.Text;
-            modalidad.Text = comboBox1.SelectedItem.ToString();
-            condicion.Text = comboBox2.SelectedItem.ToString();
+            num_Lote.Text = id_lote.Text;
+            modalidad.Text = nom_modalidad.Text;
+            condicion.Text = nom_condicion.Text;
             this.Close();
         }
 

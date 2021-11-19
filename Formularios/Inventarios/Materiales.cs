@@ -16,19 +16,24 @@ namespace InventarioFod.Formularios.Inventarios
             Data = new AutoCompleteStringCollection();
             comboBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
 
-            dataGridView1.ColumnCount = 2;
-            dataGridView1.Columns[0].Name = "Descripcion_Material";
-            dataGridView1.Columns[1].Name = "Cantidad";
+            ingreso_materiales.ColumnCount = 2;
+            ingreso_materiales.Columns[0].Name = "Descripcion_Material";
+            ingreso_materiales.Columns[1].Name = "Cantidad";
             //orden_trabajo.Text = accion;
             orden_trabajo.Text = baseDatos.get_num_acciones("orden_materiales").ToString("D7");
+            Cargar_Inventario_Materiales();
+            descripcion.Text = "INGRESO COMPRA DE MATERIALES";
+            comboBox1.AutoCompleteCustomSource = Data;
+        }
+
+        public void Cargar_Inventario_Materiales()
+        {
             List<string> materiales = baseDatos.Obtener_Lista_Materiales();
 
             foreach (var item in materiales)
             {
                 Data.Add(item);
             }
-            descripcion.Text = "INGRESO COMPRA DE MATERIALES";
-            comboBox1.AutoCompleteCustomSource = Data;
         }
 
         private void Button1_Click(object sender, EventArgs e)
@@ -37,7 +42,7 @@ namespace InventarioFod.Formularios.Inventarios
             {
                 if (verificar_datos(comboBox1.Text, "Descripcion_Material"))
                 {
-                    dataGridView1.Rows.Add(comboBox1.Text, cant_materialesIngreso.Value.ToString());
+                    ingreso_materiales.Rows.Add(comboBox1.Text, cant_materialesIngreso.Value.ToString());
                 }
                 cant_materialesIngreso.Value = 0;
                 comboBox1.Text = string.Empty;
@@ -53,10 +58,10 @@ namespace InventarioFod.Formularios.Inventarios
         {
 
             bool estado = true;
-            if (dataGridView1.Rows.Count != 1)
+            if (ingreso_materiales.Rows.Count != 1)
             {
-                dataGridView1.AllowUserToAddRows = false;
-                foreach (DataGridViewRow item in dataGridView1.Rows)
+                ingreso_materiales.AllowUserToAddRows = false;
+                foreach (DataGridViewRow item in ingreso_materiales.Rows)
                 {
 
                     if (item.Cells[tipo_buscar].Value.ToString().Equals(valor))
@@ -67,34 +72,34 @@ namespace InventarioFod.Formularios.Inventarios
                 if (!estado)
                 {
 
-                    MessageBox.Show("Material ya esta asignado", "Ingreso Materiales", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Material ya esta asignado, Modifique la cantidad", "Ingreso Materiales", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 }
-                dataGridView1.AllowUserToAddRows = true;
+                ingreso_materiales.AllowUserToAddRows = true;
 
             }
             return estado;
         }
         private void Button2_Click(object sender, EventArgs e)
         {
-            dataGridView1.AllowUserToAddRows = false;
-            if (dataGridView1.RowCount>0)
+            ingreso_materiales.AllowUserToAddRows = false;
+            if (ingreso_materiales.RowCount>0)
             {
                 baseDatos.Crear_Orden_Materiales(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
 
-                foreach (DataGridViewRow item in dataGridView1.Rows)
+                foreach (DataGridViewRow item in ingreso_materiales.Rows)
                 {
                     baseDatos.Agregar_Materiales_Inventario(item.Cells["Descripcion_Material"].Value.ToString(), Convert.ToInt32(item.Cells["Cantidad"].Value.ToString()), Convert.ToInt32(orden_trabajo.Text));
                 }
                 MessageBox.Show("Datos Guardados", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                dataGridView1.Rows.Clear();
-                dataGridView1.Refresh();
+                ingreso_materiales.Rows.Clear();
+                ingreso_materiales.Refresh();
             }
             else
             {
                 MessageBox.Show("Debe Ingresar Datos", "Opciones Guardado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            dataGridView1.AllowUserToAddRows = true;
+            ingreso_materiales.AllowUserToAddRows = true;
 
             
         }
@@ -107,7 +112,7 @@ namespace InventarioFod.Formularios.Inventarios
 
         private void RegistrarProductoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Registrar_Producto registrar = new Registrar_Producto();
+            Registrar_Producto registrar = new Registrar_Producto(this);
             registrar.Show();
 
         }
