@@ -997,7 +997,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iaH6yeqAvO7PhPcHWDfifsB7cvSHAXUSEQy/TMj1u1U=</dsig:DigestValue>
+        <dsig:DigestValue>f0IjUGrsfkpsTPgVsw2Qfanz4OFxdGX4yrZlTAvyNAk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1025,15 +1025,6 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="descarga (1).ico" size="59586">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QB1b1vPlKkHpfzGBD1IFw/3qMVFsRj6Kr8m82LvK3u0=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Microsoft_Excel.ico" size="9662">
     <hash>
       <dsig:Transforms>

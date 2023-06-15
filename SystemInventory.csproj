@@ -552,7 +552,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="descarga %281%29.ico" />
     <Content Include="Microsoft_Excel.ico" />
   </ItemGroup>
   <ItemGroup>

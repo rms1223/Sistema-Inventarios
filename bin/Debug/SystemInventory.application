@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SystemInventory.exe.manifest" size="63642">
+    <dependentAssembly dependencyType="install" codebase="SystemInventory.exe.manifest" size="63247">
       <assemblyIdentity name="SystemInventory.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h9fdZrYiCjVwOi0Y7+DCooAF1TdmMhkbsAO93LlZeHY=</dsig:DigestValue>
+        <dsig:DigestValue>wa/KkgEqArNfmh0L6zK1a/JL07NhDlPj4ovXdhkBmE4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
