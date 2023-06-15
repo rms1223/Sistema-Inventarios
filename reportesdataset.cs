@@ -1,8 +1,8 @@
-﻿namespace InventarioFod
+﻿namespace SystemIventory
 {
 }
 
-namespace InventarioFod
+namespace SystemInventory
 {
 
 
@@ -10,7 +10,7 @@ namespace InventarioFod
     {
     }
 }
-namespace InventarioFod {
+namespace SystemIventory {
     
     
     public partial class reportesdataset {

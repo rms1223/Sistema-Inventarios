@@ -1,8 +1,8 @@
-﻿using InventarioFod.Formularios;
+﻿using SystemIventory.Forms;
 using System;
 using System.Windows.Forms;
 
-namespace InventarioFod
+namespace SystemIventory
 {
     static class Program
     {
@@ -14,7 +14,7 @@ namespace InventarioFod
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login_user());
+            Application.Run(new LoginUserForm());
             
         }
     }

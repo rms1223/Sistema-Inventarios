@@ -1,42 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj": {}
+    "C:\\Users\\RandyMS\\source\\repos\\rms1223\\Sistema-Inventarios\\InventarioACS.csproj": {}
   },
   "projects": {
-    "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj": {
+    "C:\\Users\\RandyMS\\source\\repos\\rms1223\\Sistema-Inventarios\\InventarioACS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj",
-        "projectName": "InventarioACS",
-        "projectPath": "E:\\Escritorio\\InventarioACS\\InventarioACS.csproj",
+        "projectUniqueName": "C:\\Users\\RandyMS\\source\\repos\\rms1223\\Sistema-Inventarios\\InventarioACS.csproj",
+        "projectName": "InventarioFod",
+        "projectPath": "C:\\Users\\RandyMS\\source\\repos\\rms1223\\Sistema-Inventarios\\InventarioACS.csproj",
         "packagesPath": "C:\\Users\\RandyMS\\.nuget\\packages\\",
-        "outputPath": "E:\\Escritorio\\InventarioACS\\obj\\",
+        "outputPath": "C:\\Users\\RandyMS\\source\\repos\\rms1223\\Sistema-Inventarios\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\SDKVisualStudio\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\RandyMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net452"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net452": {
+          "net48": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "net452": {
+        "net48": {
           "dependencies": {
             "DocumentFormat.OpenXml": {
               "target": "Package",
