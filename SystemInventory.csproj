@@ -115,7 +115,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\IModels\DataSetModel.cs" />
+    <Compile Include="Classes\Models\DataSetModel.cs" />
     <Compile Include="Classes\IModels\IDataBaseRepository.cs" />
     <Compile Include="Classes\IModels\IDataSetModel.cs" />
     <Compile Include="Classes\IModels\IDataTableModel.cs" />
