@@ -5,12 +5,14 @@ using System;
 using System.Collections.Generic;
 using System.Net.Mail;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms.MaterialsOrderForm
 {
     public partial class MaterialsOrderForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private InstalledDevice _installedDevices;
         private DataOperationDocument _dataOperations;
         private List<Attachment> _listAttachments; 
@@ -23,10 +25,10 @@ namespace SystemIventory.Forms.InventoriesForms.MaterialsOrderForm
             ToolTip tool_aplicacion = new ToolTip();
             tool_email.SetToolTip(button1, "Aplicar Pedido");
             orden.Text = orden_trabajo;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            _installedDevices = _mysqlConnectionDatabase.GetFinalInventoryOrder(Convert.ToInt32(orden.Text));
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _installedDevices = (InstalledDevice)_dataBaseRepository.GetFinalInventoryOrder(Convert.ToInt32(orden.Text)).Result;
 
-            num_pedido.Text = _mysqlConnectionDatabase.GetIdOrder().ToString("D10");
+            num_pedido.Text = ((int)_dataBaseRepository.GetIdOrder().Result).ToString("D10");
             LoadData();
             _dataOperations = new DataOperationDocument();
             _listAttachments = new List<Attachment>();
@@ -157,7 +159,7 @@ namespace SystemIventory.Forms.InventoriesForms.MaterialsOrderForm
         {
             try
             {
-                _mysqlConnectionDatabase.SaveFinalInventoryOrder(_installedDevices, orden.Text, "BODEGA", num_pedido.Text);
+                _dataBaseRepository.SaveFinalInventoryOrder(_installedDevices, orden.Text, "BODEGA", num_pedido.Text);
                 MessageBox.Show("Estado Actualizado", "Opciones Accesorios", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 if (checkBox1.Checked)
                 {

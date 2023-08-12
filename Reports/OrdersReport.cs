@@ -4,6 +4,8 @@ using SystemIventory.Forms.Acciones;
 using Microsoft.Reporting.WinForms;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Reports
 {
@@ -11,11 +13,11 @@ namespace SystemIventory.Reports
     {
 
         private DataReports _dataReports;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         public OrdersReport()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
 
         }
 
@@ -40,7 +42,7 @@ namespace SystemIventory.Reports
                     GetParameters = new ReportParameter[]
                 {
                     new ReportParameter("fecha", DateTime.Now.ToString("dd/MM/yyyy")),
-                    new ReportParameter("institucion",_mysqlConnectionDatabase.GetDescriptionWorkActionFromId(Convert.ToInt32(orden_txt.Text)))
+                    new ReportParameter("institucion",_dataBaseRepository.GetDescriptionWorkActionFromId(Convert.ToInt32(orden_txt.Text)).Result.ToString())
                 }
                 };
                 _dataReports.GetDataOrderReport(Convert.ToInt32(orden_txt.Text),tipo_pedido.Text);

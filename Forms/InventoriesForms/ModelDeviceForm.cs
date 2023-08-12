@@ -1,20 +1,23 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
+using System.Collections;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
     public partial class ModelDeviceForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
-        
+        private IDataBaseRepository _dataBaseRepository;
+
         public ModelDeviceForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            label2.Text = _mysqlConnectionDatabase.GetNextCodeProduct().ToString();
-
-            foreach (var item in _mysqlConnectionDatabase.GetAllTypesDevice())
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            label2.Text = _dataBaseRepository.GetNextCodeProduct().ToString();
+            var listTypeDevice = (IList)_dataBaseRepository.GetAllTypesDevice().Result;
+            foreach (var item in listTypeDevice)
             {
                 tipo.Items.Add(item);
             }
@@ -32,7 +35,7 @@ namespace SystemIventory.Forms.InventoriesForms
                 int codigo_equipo = Convert.ToInt32(label2.Text);
                 string tipo_equipo = tipo.SelectedItem.ToString();
                 string[] tipo1 = tipo_equipo.Split('-');
-                _mysqlConnectionDatabase.SaveModelDevice(codigo_equipo, marca.Text, modelo.Text, tipo1[0]);
+                _dataBaseRepository.SaveModelDevice(codigo_equipo, marca.Text, modelo.Text, tipo1[0]);
                 MessageBox.Show("Registro de datos", "Datos Registrados", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Close();
             }

@@ -6,6 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Classes
 {
@@ -15,7 +17,9 @@ namespace SystemIventory.Classes
         private DataGridView _dataDatgridViewDelete;
         private DataGridView _dataDatagridviewAdd;
 
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private OperationsRepository _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
+        private IDataTableModel dataTableModel;
 
         private DataReports _dataReports;
         public int Count { get; set; }
@@ -25,7 +29,9 @@ namespace SystemIventory.Classes
         public DataOperationDocument(DataGridView _mainDatgridviewUser)
         {
             _dataDatagridview = _mainDatgridviewUser;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
+            dataTableModel = DataTableModel.Get_Instance;
 
         }
 
@@ -43,12 +49,14 @@ namespace SystemIventory.Classes
         }
         public DataOperationDocument()
         {
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
+            dataTableModel = DataTableModel.Get_Instance;
         }
 
         public void SearchIdOrder()
         {
-            _dataDatagridview.DataSource = _mysqlConnectionDatabase.GetTotalRecordOrders();
+            _dataDatagridview.DataSource = dataTableModel.GetTotalRecordOrders();
         }
 
 
@@ -60,13 +68,13 @@ namespace SystemIventory.Classes
                 if (!string.IsNullOrEmpty(comando))
                 {
                     int valor = Convert.ToInt32(comando);
-                    _dataDatagridview.DataSource = _mysqlConnectionDatabase.GetAllWorkAction(valor);
+                    _dataDatagridview.DataSource = dataTableModel.GetAllWorkAction(valor).Result;
                 }
 
             }
             else
             {
-                _dataDatagridview.DataSource = _mysqlConnectionDatabase.GetWorkActionFromId(comando, accion);
+                _dataDatagridview.DataSource = dataTableModel.GetWorkActionFromId(comando, accion).Result;
             }
 
         }
@@ -77,8 +85,8 @@ namespace SystemIventory.Classes
             {
                 _dataDatagridviewAdd.Columns.Clear();
                 _dataDatgridViewDelete.Columns.Clear();
-                _dataDatagridviewAdd.DataSource = _mysqlConnectionDatabase.GetChangesWorkAction(orden, "AGREGADO");
-                _dataDatgridViewDelete.DataSource = _mysqlConnectionDatabase.GetChangesWorkAction(orden,"ELIMINADO");
+                _dataDatagridviewAdd.DataSource = dataTableModel.GetChangesWorkAction(orden, "AGREGADO");
+                _dataDatgridViewDelete.DataSource = dataTableModel.GetChangesWorkAction(orden,"ELIMINADO");
             }
             catch (Exception)
             {
@@ -121,12 +129,12 @@ namespace SystemIventory.Classes
 
         public bool SaveInventoryDevicesInDatabase(int cod_mod,string serie,string placa, string query)
         {
-            return _mysqlConnectionDatabase.SaveRegisterReequipamiento(cod_mod,serie,placa,query);
+            return _dataBaseRepository.SaveRegisterReequipamiento(cod_mod,serie,placa,query).StatusQuery;
         }
 
         public void SaveInstitutionInDatabase(Institution institucion)
         {
-            _mysqlConnectionDatabase.SaveInstitution(institucion);
+            _dataBaseRepository.SaveInstitution(institucion);
         }
 
 
@@ -169,11 +177,11 @@ namespace SystemIventory.Classes
 
         public void LoadInfromationWorkAction()
         {
-            _dataDatagridview.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(0,VariablesName.OutputOrder);
+            _dataDatagridview.DataSource = dataTableModel.GetInfromationWokActionFromType(0,VariablesName.OutputOrder);
         }
         public void ApplyWorkActionInDatabase(int accion, string estado)
         {
-            _mysqlConnectionDatabase.ApplyWorkAction(accion, estado);
+            _dataBaseRepository.ApplyWorkAction(accion, estado);
         }
 
         public List<string> GetAllLocationsInDatabase()
@@ -182,15 +190,15 @@ namespace SystemIventory.Classes
         }
         public void UpdateStatusWorkActionInDatabase(int lista, string estado_lista)
         {
-            _mysqlConnectionDatabase.UpdateStatusList(lista, estado_lista);
+            _dataBaseRepository.UpdateStatusList(lista, estado_lista);
         }
         public void GetStatusWorkActionFromDatabase(int accion)
         {
-            _dataDatagridview.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(accion,VariablesName.OutputOrder);
+            _dataDatagridview.DataSource = dataTableModel.GetInfromationWokActionFromType(accion,VariablesName.OutputOrder);
         }
         public bool SaveInventoryRecordsInDatabase(Equipos_Reequipamiento equi_requi, string query)
         {
-            return _mysqlConnectionDatabase.SaveInventoryRecord(equi_requi, query);
+            return _dataBaseRepository.SaveInventoryRecord(equi_requi, query).StatusQuery;
         }
         
         public void LoadWorkActionInfromationInDatagridview()
@@ -210,7 +218,7 @@ namespace SystemIventory.Classes
 
         public void ProcessLocalWorkAction(string valor, string tipo_buscar, string institucion, string modalidad, int num_maquina)
         {
-            Device equi = _mysqlConnectionDatabase.SearchDeviceFromId(valor, tipo_buscar);
+            Device equi = (Device)_dataBaseRepository.SearchDeviceFromId(valor, tipo_buscar).Result;
             if (equi.Placa != null)
             {
                 if (VerifyDataInDatagridview(valor, tipo_buscar))
@@ -269,7 +277,7 @@ namespace SystemIventory.Classes
                 
                 _mysqlConnectionDatabase.VerifyDatabaseConnection();
                 bool estado_ope = true;
-                _mysqlConnectionDatabase.SaveNewWorkAction(Convert.ToInt32(orden_trabajo), institucion, tipo_orden);
+                _dataBaseRepository.SaveNewWorkAction(Convert.ToInt32(orden_trabajo), institucion, tipo_orden);
                 Equipos_Reequipamiento equi_requi = new Equipos_Reequipamiento();
                 foreach (DataGridViewRow item in _dataDatagridview.Rows)
                 {
@@ -295,7 +303,7 @@ namespace SystemIventory.Classes
                         estado_ope = SaveInventoryRecordsInDatabase(equi_requi, Query.Insert);
                         if (cambio)
                         {
-                            _mysqlConnectionDatabase.SaveChangeInDatabase(equi_requi.Placa, equi_requi.Serie, equi_requi.Accion, "AGREGADO", equi_requi.Numero_Maquina);
+                            _dataBaseRepository.SaveChangeInDatabase(equi_requi.Placa, equi_requi.Serie, equi_requi.Accion, "AGREGADO", equi_requi.Numero_Maquina);
                         }
                         if (!estado_ope)
                         {
@@ -358,8 +366,8 @@ namespace SystemIventory.Classes
                         int Tipo_Equipo = Convert.ToInt32(item.Cells["Codigo Modelo"].Value.ToString());
 
                         string idCartel = item.Cells["Cartel"].Value.ToString();
-                        estado_ope = _mysqlConnectionDatabase.SaveNewDevice(Tipo_Equipo, Placa, Serie.ToUpper(), idCartel);
-                        _mysqlConnectionDatabase.SaveNewWorkAction(Convert.ToInt32(orden_trabajo), descripcionorden, tipo_orden);
+                        estado_ope = _dataBaseRepository.SaveNewDevice(Tipo_Equipo, Placa, Serie.ToUpper(), idCartel).StatusQuery;
+                        _dataBaseRepository.SaveNewWorkAction(Convert.ToInt32(orden_trabajo), descripcionorden, tipo_orden);
 
                         equi_requi.Accion = Convert.ToInt32(orden_trabajo);
                         if (Serie.StartsWith("MP1") && Serie.Length > 8)
@@ -419,7 +427,7 @@ namespace SystemIventory.Classes
                         GetParameters = new ReportParameter[]
                     {
                         new ReportParameter("fecha", DateTime.Now.ToString("dd/MM/yyyy")),
-                        new ReportParameter("institucion",_mysqlConnectionDatabase.GetDescriptionWorkActionFromId(Convert.ToInt32(orden_txt)))
+                        new ReportParameter("institucion",(string)_dataBaseRepository.GetDescriptionWorkActionFromId(Convert.ToInt32(orden_txt)).Result)
                     }
                     };
                     _dataReports.GetDataOrderReport(Convert.ToInt32(orden_txt), tipo_pedido);

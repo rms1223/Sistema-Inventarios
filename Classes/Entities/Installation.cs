@@ -1,6 +1,6 @@
 ﻿namespace SystemIventory.Classes.Entities
 {
-    class Installation
+    public class Installation
     {
         public string Codigo_pre { get; set; }
         public int Cantidad_aps { get; set; }

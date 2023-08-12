@@ -1,24 +1,21 @@
 ﻿using SystemIventory.Classes;
 using SystemIventory.Forms;
-using SystemIventory.Forms.Acciones;
-using SystemIventory.Forms.AdministrativesForms;
-using SystemIventory.Forms.Consultas.inventarios_materiales;
-using SystemIventory.Forms.InventoriesForms;
-using SystemIventory.Forms.InventoriesForms.equipos_malos;
-using SystemIventory.Forms.InventoriesForms.estado_ordenes;
 using SystemIventory.Forms.InventoriesForms.usuarios;
-using SystemIventory.Reports;
 using System;
 using System.Threading;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory
 {
     public partial class MainMenuForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private OperationsRepository _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private Thread t_threadMain;
         private LoginUserForm _loginForm;
+        private readonly IPanel _panelMenu;
         private string rol_user;
         public int xClick = 0, yClick = 0;
         public string AddMessageMail { get; set; }
@@ -27,7 +24,7 @@ namespace SystemIventory
         {
             _loginForm = principal;
             rol_user = rol;
-            
+            _panelMenu = new PanelMenu();
             t_threadMain = new Thread(new ThreadStart(StartLoginThreadRun))
             {
                 IsBackground = true
@@ -35,13 +32,15 @@ namespace SystemIventory
             t_threadMain.Start();
             
             InitializeComponent();
+
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
             this.WindowState = FormWindowState.Maximized;
             opciones.Visible = false;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
             _mysqlConnectionDatabase.StatusTecnicals = true;
-            _mysqlConnectionDatabase.GetInformationLocation();
-            
+            _mysqlConnectionDatabase.GetLocation();
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+
             toolStripStatusLabel2.Text = "Fecha: " + VariablesName.ActualDate;
             treeView1.ExpandAll();
             StopLoginThreadRun();
@@ -109,75 +108,7 @@ namespace SystemIventory
         {
             try
             {
-                Object panel = null;
-                switch (e.Node.Name)
-                {
-                    case "inven_reeequi":
-                        panel = PrincipalForm._getInstance;
-                        break;
-                    case "list_reequi":
-                        InventoryListForm.Get_instance.Rol_Usuario = rol_user;
-                        panel = InventoryListForm.Get_instance;
-
-                        break;
-                    case "rpt_acciones":
-                        panel = new salida_materiales();
-                        break;
-                    case "verif_equipos":
-                        panel = new VerifyDeviceInventoryForm();
-                        break;
-                    case "rpt_equi_accion":
-                        panel = new WorkActionGeneralReport();
-                        break;
-                    case "aplicar_accion":
-                        panel = new Aplicar_Acciones();
-                        break;
-                    case "nuevo_equipo":
-                        panel = new RegisterDeviceForm();
-                        break;
-                    case "revisar_placas":
-                        panel = new VerifyIdDeviceForm();
-                        break;
-                    case "t_equipos_instalacion":
-                        panel = new InventoryDevicesToSendForm();
-                        break;
-                    case "materiales":
-                        panel = new MaterialsForm();
-                        break;
-                    case "orden_ingreso":
-                        panel = new EntryOrderForm();
-                        break;
-                    case "orden_salida_materiales":
-                        panel = new OrderOutputMaterials();
-                        break;
-                    case "prepa_orden_equipos":
-                        panel = new InventoryDevicesSendForm();
-                        break;
-                    case "estado_ordenes":
-                        panel = new StatusOrderProductionForm(rol_user);
-                        break;
-                    case "consulta_inventario_materiales":
-                        panel = new MaterialsInventoryForm();
-                        break;
-                    case "equipos_danados":
-                        panel = new BadDeviceForm();
-                        break;
-                    case "pedidos":
-                        panel = new OrdersReport();
-                        break;
-                    case "equi_garantia":
-                        panel = new ReportDeviceWarrantyReport();
-                        break;
-                    case "imp_orden_materiales":
-                        panel = new WorkActionOutReport("00000");
-                        break;
-                    case "registrar_cartel":
-                        panel = new CreateCartelForm();
-                        
-                        break;
-                    default:
-                        break;
-                }
+                Object panel = _panelMenu.GetPanel(e.Node.Name, rol_user);
                 if (panel != null)
                 {
                     LoadPanel(panel);
@@ -196,7 +127,7 @@ namespace SystemIventory
 
         private void CerraToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            _mysqlConnectionDatabase.CloseMysqlConnection();
+            _mysqlConnectionDatabase.CloseConnection();
             this.Close();
             _loginForm.Close();
         }
@@ -274,7 +205,7 @@ namespace SystemIventory
 
         private void Timer2_Tick(object sender, EventArgs e)
         {
-            count_orden.Text = _mysqlConnectionDatabase.GetPendingOrder();
+            count_orden.Text = _dataBaseRepository.GetPendingOrder().Result.ToString();
         }
 
 

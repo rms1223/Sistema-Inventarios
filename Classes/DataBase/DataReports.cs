@@ -1,13 +1,13 @@
 ﻿using Microsoft.Reporting.WinForms;
 using System;
 using System.Data;
+using SystemInventory.Classes.IModels;
 
 namespace SystemIventory.Classes.DataBase
 {
     class DataReports
     {
 
-        ConnectionMysqlDatabase _mysqlConnectionDatabase;
 
         public ReportViewer Reporte { get; set; }
         public string NameTableDataSource { get; set; }
@@ -16,44 +16,45 @@ namespace SystemIventory.Classes.DataBase
         public string ReportEmbedResourse { get; set; }
 
         private string _actualDate { get; set; }
-        private DataSet _dataDataSet { get; set; }
-        private DataSet _dataDataSetOptional { get; set; }
+        private DataSet _dataSet { get; set; }
+        //private DataSet _dataDataSetOptional { get; set; }
+        private IDataSetModel _dataSetModel;
 
         public DataReports()
         {
             _actualDate = DateTime.Now.ToString("dd/MM/yyyy");
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataSetModel = DataSetModel.Get_Instance;
         }
 
         public void GetDataWorkActionReport(int accion)
         {
-            _dataDataSet = _mysqlConnectionDatabase.GetWorkActionReport(accion);
+            _dataSet = (DataSet) _dataSetModel.GetWorkActionReport(accion).Result;
             GenerateWorkActionReport();
         }
         public void GetDataOrderReport(int orden,string tipo_pedido)
         {
-            _dataDataSet = _mysqlConnectionDatabase.GetOrderReport(orden,tipo_pedido);
+            _dataSet = (DataSet) _dataSetModel.GetOrderReport(orden, tipo_pedido).Result;
             GenerateOrderReport();
         }
         public void GetDataOutputMaterialsReport(string orden)
         {
-            _dataDataSet = _mysqlConnectionDatabase.GetOuputMaterialReport(Convert.ToInt32(orden));
+            _dataSet = (DataSet)_dataSetModel.GetOuputMaterialReport(Convert.ToInt32(orden)).Result;
             GenerateOrderReport();
         }
         public void GetDataGeneralReport()
         {
-            _dataDataSet = _mysqlConnectionDatabase.GetGeneralDevicesReport();
+            _dataSet = (DataSet)_dataSetModel.GetGeneralDevicesReport().Result;
             GenerateReport();
         }
         public void GetDataWarrantyReport(string tipo)
         {
-            _dataDataSet = _mysqlConnectionDatabase.GetDevicesInWarranty(tipo);
+            _dataSet = (DataSet)_dataSetModel.GetDevicesInWarranty(tipo).Result;
             GenerateReport();
         }
 
         private void GenerateOrderReport()
         {
-            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataDataSet.Tables[0]);
+            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataSet.Tables[0]);
             Reporte.LocalReport.DataSources.Clear();
             Reporte.LocalReport.DataSources.Add(_reportDataSource);
             Reporte.LocalReport.ReportEmbeddedResource = ReportEmbedResourse;
@@ -64,7 +65,7 @@ namespace SystemIventory.Classes.DataBase
         }
         private void GenerateWorkActionReport()
         {
-            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataDataSet.Tables[0]);
+            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataSet.Tables[0]);
             Reporte.LocalReport.DataSources.Clear();
             Reporte.LocalReport.DataSources.Add(_reportDataSource);
             Reporte.LocalReport.ReportEmbeddedResource = ReportEmbedResourse;
@@ -75,7 +76,7 @@ namespace SystemIventory.Classes.DataBase
         }
         private void GenerateReport()
         {
-            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataDataSet.Tables[0]);
+            ReportDataSource _reportDataSource = new ReportDataSource(NameTableDataSource, _dataSet.Tables[0]);
             Reporte.LocalReport.DataSources.Clear();
             Reporte.LocalReport.DataSources.Add(_reportDataSource);
             Reporte.LocalReport.ReportEmbeddedResource = ReportEmbedResourse;

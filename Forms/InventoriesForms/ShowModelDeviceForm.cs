@@ -1,6 +1,8 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
@@ -11,8 +13,8 @@ namespace SystemIventory.Forms.InventoriesForms
         public ShowModelDeviceForm(Label tipo, Label nom)
         {
             InitializeComponent();
-            ConnectionMysqlDatabase db = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = db.GetAllTypeDevice();
+            IDataTableModel dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = dataTableModel.GetAllTypeDevice().Result;
             _idText = tipo;
             _modelName = nom;
         }

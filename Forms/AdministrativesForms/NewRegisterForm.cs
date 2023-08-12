@@ -1,12 +1,13 @@
-﻿using SystemIventory.Classes;
-using System;
+﻿using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.AdministrativesForms
 {
     public partial class NewRegisterForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         Label cod;
         Label institu;
         Label modalidad;
@@ -15,8 +16,7 @@ namespace SystemIventory.Forms.AdministrativesForms
         public NewRegisterForm(Label codigo, Label institucion, Label moda, Label condi, Label lote)
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            _mysqlConnectionDatabase.VerifyDatabaseConnection();
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             cod = codigo;
             institu = institucion;
             modalidad = moda;
@@ -26,7 +26,7 @@ namespace SystemIventory.Forms.AdministrativesForms
 
         private void TextBox1_Leave(object sender, EventArgs e)
         {
-            string valor = _mysqlConnectionDatabase.GetInstitutionCode(textBox1.Text, "reequipamiento");
+            string valor = _dataBaseRepository.GetInstitutionCode(textBox1.Text, "reequipamiento").Result.ToString();
             institucion.Text = valor;
         }
 

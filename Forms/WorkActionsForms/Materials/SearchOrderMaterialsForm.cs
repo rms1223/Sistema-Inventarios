@@ -1,18 +1,21 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.Acciones.Materiales
 {
     public partial class SearchOrderMaterialsForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        //private MysqlDatabaseRepository _dataBaseRepository;
+        private IDataTableModel _dataTableModel;
         private TextBox _ordenSelect;
         public SearchOrderMaterialsForm(TextBox orden)
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetWorkActionMaterials();
+            _dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = _dataTableModel.GetWorkActionMaterials().Result;
             _ordenSelect = orden;
         }
 

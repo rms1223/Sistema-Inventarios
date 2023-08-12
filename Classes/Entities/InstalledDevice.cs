@@ -1,6 +1,6 @@
 ﻿namespace SystemIventory.Classes.Entities
 {
-    class InstalledDevice
+    public class InstalledDevice
     {
         public string Codigo { get; set; }
         public string Lote { get; set; }

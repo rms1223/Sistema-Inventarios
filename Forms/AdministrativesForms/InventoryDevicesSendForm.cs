@@ -1,28 +1,32 @@
 ﻿using SystemIventory.Classes;
 using SystemIventory.Classes.Entities;
 using System;
-
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.AdministrativesForms
 {
     public partial class InventoryDevicesSendForm : Form
     {
-        private ConnectionMysqlDatabase db_conn;
+        private OperationsRepository _dataBaseTool;
+        private IDataBaseRepository _dataBaseRepository;
         private InstalledDevice equipos;
         public InventoryDevicesSendForm()
         {
             InitializeComponent();
-            db_conn = ConnectionMysqlDatabase.Get_Instance;
-            db_conn.VerifyDatabaseConnection();
-            orden_trabajo.Text = db_conn.GetIdWorkActionFromType("orden_trabajo").ToString("D7");
-            num_pedido.Text = db_conn.GetIdOrder().ToString("D10");
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _dataBaseTool = OperationsRepository.Get_Instance;
+            _dataBaseTool.VerifyDatabaseConnection();
+
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_trabajo").Result).ToString("D7");
+            num_pedido.Text = ((int)_dataBaseRepository.GetIdOrder().Result).ToString("D10");
         }
 
         private void Buscar_Click(object sender, EventArgs e)
         {
-            equipos = db_conn.GetDevicesInInstitutionFromCode(txt_buscar.Text,"ADMIN",0);
-            centro_educativo.Text = db_conn.GetInstitutionCode(txt_buscar.Text, "consulta");
+            equipos = (InstalledDevice)_dataBaseRepository.GetDevicesInInstitutionFromCode(txt_buscar.Text,"ADMIN",0).Result;
+            centro_educativo.Text = (string)_dataBaseRepository.GetInstitutionCode(txt_buscar.Text, "consulta").Result;
             cargar_data();
         }
         private void cargar_data()
@@ -142,7 +146,7 @@ namespace SystemIventory.Forms.AdministrativesForms
             equipos.Cable_usb = Convert.ToInt32(cant_usb.Value);
             equipos.Cartucho_tinta = Convert.ToInt32(cant_cartucho.Value);
             equipos.Mouse = Convert.ToInt32(cant_mouse.Value);
-            db_conn.SaveFinalInventoryOrder(equipos, orden_trabajo.Text,"ADMINISTRATIVO",num_pedido.Text);
+            _dataBaseRepository.SaveFinalInventoryOrder(equipos, orden_trabajo.Text,"ADMINISTRATIVO",num_pedido.Text);
             MessageBox.Show("Estado Actualizado", "Opciones Accesorios", MessageBoxButtons.OK, MessageBoxIcon.Information);
             button2.Enabled = true;
         }

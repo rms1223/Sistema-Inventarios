@@ -1,6 +1,8 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory
 {
@@ -8,7 +10,8 @@ namespace SystemIventory
     {
         public PrincipalForm formulario_principal;
         private static InventoryListForm instance = null;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
+        private IDataTableModel _dataTableModel;
         private DataOperationDocument _dataOperationDocument;
         public string Rol_Usuario { get; set; }
 
@@ -31,11 +34,9 @@ namespace SystemIventory
         private InventoryListForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            _mysqlConnectionDatabase.VerifyDatabaseConnection();
-            ToolTip regresar = new ToolTip();
+            _dataTableModel = DataTableModel.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
 
-            
             _dataOperationDocument = new DataOperationDocument(dataGridView1);
             
         }
@@ -60,11 +61,11 @@ namespace SystemIventory
                         string serie = item.Cells[VariablesName.Serial].Value.ToString();
                         int accion = Convert.ToInt32(item.Cells["Orden"].Value.ToString());
                         int estacion = Convert.ToInt32(item.Cells["Numero_Estacion"].Value.ToString());
-                        bool estado = _mysqlConnectionDatabase.DeleteDevice(placa, serie, accion,estacion);
+                        bool estado = _dataBaseRepository.DeleteDevice(placa, serie, accion,estacion).StatusQuery;
                         if (estado)
                         {
                             MessageBox.Show("Registro eliminado", "Datos Actualizados", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            dataGridView1.DataSource = _mysqlConnectionDatabase.GetDataListInstitutionFromWorkAction(text_placa.Text, VariablesName.Placa);
+                            dataGridView1.DataSource = _dataTableModel.GetDataListInstitutionFromWorkAction(text_placa.Text, VariablesName.Placa).Result;
                         }
 
 
@@ -88,13 +89,13 @@ namespace SystemIventory
 
         private void Button1_Click_1(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetDataListInstitutionFromWorkAction(text_placa.Text, VariablesName.Placa);
+            dataGridView1.DataSource = _dataTableModel.GetDataListInstitutionFromWorkAction(text_placa.Text, VariablesName.Placa).Result;
             text_placa.Text = string.Empty;
         }
 
         private void Button2_Click_2(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetDataListInstitutionFromWorkAction(txt_serie.Text, VariablesName.Serial);
+            dataGridView1.DataSource = _dataTableModel.GetDataListInstitutionFromWorkAction(txt_serie.Text, VariablesName.Serial).Result;
             txt_serie.Text = string.Empty;
         }
 
@@ -126,7 +127,7 @@ namespace SystemIventory
         }
         private void GetInstitutionName()
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetDataListInstitutionFromWorkAction(txt_institucion.Text, VariablesName.Institucion);
+            dataGridView1.DataSource = _dataTableModel.GetDataListInstitutionFromWorkAction(txt_institucion.Text, VariablesName.Institucion).Result;
             txt_institucion.Focus();
             txt_institucion.Text = string.Empty;
         }

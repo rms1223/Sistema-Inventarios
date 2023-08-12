@@ -3,22 +3,24 @@ using SystemIventory.Classes;
 using SystemIventory.Forms.Acciones;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
     public partial class EntryOrderForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
 
         DataOperationDocument _dataOperationDocument;
         public EntryOrderForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
 
             _dataOperationDocument = new DataOperationDocument(dataGridView1);
             _dataOperationDocument.LoadWorkActionInfromationInDatagridview();
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_trabajo").ToString("D7");
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_trabajo").Result).ToString("D7");
 
         }
 
@@ -60,7 +62,7 @@ namespace SystemIventory.Forms.InventoriesForms
 
         private void TextBox1_Leave(object sender, System.EventArgs e)
         {
-            string valor = _mysqlConnectionDatabase.GetInstitutionCode(textBox1.Text, "reequipamiento");
+            string valor = (string)_dataBaseRepository.GetInstitutionCode(textBox1.Text, "reequipamiento").Result;
             institucion.Text = valor;
             placa.Focus();
             textBox1.Text = string.Empty;

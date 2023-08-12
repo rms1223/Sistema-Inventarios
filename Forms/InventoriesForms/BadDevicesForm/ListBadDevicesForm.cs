@@ -1,17 +1,21 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms.equipos_malos
 {
     public partial class ListBadDevicesForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
+        private IDataTableModel _dataTableModel;
         public ListBadDevicesForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetAllDeviceDamage();
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = _dataTableModel.GetAllDeviceDamage().Result;
 
         }
 
@@ -44,11 +48,11 @@ namespace SystemIventory.Forms.InventoriesForms.equipos_malos
                     string serie = serie_txt.Text;
                     string dano = dano_txt.Text;
                     string estado = comboBox1.SelectedItem.ToString();
-                    _mysqlConnectionDatabase.SaveNewDamage(placa, serie, dano, estado);
+                    _dataBaseRepository.SaveNewDamage(placa, serie, dano, estado);
                 }
                 dataGridView1.AllowUserToAddRows = true;
                 MessageBox.Show("Datos Guardados", "Opciones Guardado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                dataGridView1.DataSource = _mysqlConnectionDatabase.GetAllDeviceDamage();
+                dataGridView1.DataSource = _dataTableModel.GetAllDeviceDamage().Result;
             }
             else
             {

@@ -2,12 +2,15 @@
 using SystemIventory.Classes.Entities;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
+using System.Collections;
 
 namespace SystemIventory.Forms.InventoriesForms.equipos_malos
 {
     public partial class BadDeviceForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         public BadDeviceForm()
         {
             InitializeComponent();
@@ -19,9 +22,10 @@ namespace SystemIventory.Forms.InventoriesForms.equipos_malos
             dataGridView1.Columns[4].Name = "Tipo_equipo";
             dataGridView1.Columns[5].Name = "Daños";
             dataGridView1.Columns[6].Name = "Estado";
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
 
-            foreach (var item in _mysqlConnectionDatabase.GetAllNameDamage())
+            var listDamage = (IList) _dataBaseRepository.GetAllNameDamage().Result;
+            foreach (var item in listDamage)
             {
                 lista_malas.Items.Add(item);
             }
@@ -37,7 +41,7 @@ namespace SystemIventory.Forms.InventoriesForms.equipos_malos
         {
             if (!string.IsNullOrEmpty(placa.Text))
             {
-                Device equi = _mysqlConnectionDatabase.SearchDeviceFromId(placa.Text, VariablesName.Placa);
+                Device equi = (Device)_dataBaseRepository.SearchDeviceFromId(placa.Text, VariablesName.Placa).Result;
                 string danos = string.Empty;
                 if (lista_malas.SelectedItems.Count > 0)
                 {
@@ -80,7 +84,7 @@ namespace SystemIventory.Forms.InventoriesForms.equipos_malos
                 string serie = item.Cells["Serie"].Value.ToString();
                 string dano = item.Cells["Daños"].Value.ToString();
                 string estado = item.Cells["Estado"].Value.ToString();
-                _mysqlConnectionDatabase.SaveNewDamage(placa,serie,dano,estado);
+                _dataBaseRepository.SaveNewDamage(placa,serie,dano,estado);
             }
             dataGridView1.AllowUserToAddRows = true;
             MessageBox.Show("Datos Guardados", "Opciones Guardado", MessageBoxButtons.OK, MessageBoxIcon.Information);

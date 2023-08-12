@@ -9,6 +9,8 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory
 {
@@ -19,7 +21,7 @@ namespace SystemIventory
         private DataTable dt;
         private string fecha_actual = string.Empty;
         private int contador = 1;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         InventoryListForm _listInventoryForm;
 
         ToolTip cambios = new ToolTip();
@@ -68,25 +70,18 @@ namespace SystemIventory
             dt = new DataTable();
 
             tip_guardar.SetToolTip(guardar, "Guardar Registros");
-
-            //cargamos los valores al combobox
             foreach (var modalidad in OperationsFileXlm.ModalityList)
             {
                 comboBox1.Items.Add(modalidad);
             }
-
-            //se utiliza para seleccionar un valor por defecto
-
-            //cargamos el numero de estacion actual y le desplegamos al usuario 
             estacion.Value = Convert.ToDecimal(contador.ToString());
 
             fecha_actual = DateTime.Today.ToString("dd/MM/yyyy");
             fecha_actual = fecha_actual.Split(' ')[0];
 
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             comboBox1.SelectedIndex = 0;
-            
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_trabajo").ToString("D7");
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_trabajo").Result).ToString("D7");
             cambios.SetToolTip(cambio_equipo,"Seleccionar en caso de cambios en los equipos");
         }
         private void Button1Click(object sender, EventArgs e)
@@ -133,7 +128,7 @@ namespace SystemIventory
         private void TextBox1_Leave(object sender, EventArgs e)
         {
             
-            string valor = _mysqlConnectionDatabase.GetInstitutionCode(textBox1.Text,"reequipamiento");
+            string valor = (string)_dataBaseRepository.GetInstitutionCode(textBox1.Text,"reequipamiento").Result;
             institucion.Text = valor;
             placa.Focus();
             textBox1.Text = String.Empty;
@@ -195,7 +190,7 @@ namespace SystemIventory
             institucion.Text = "";
             placa.Focus();
             estacion.Value = Convert.ToDecimal(contador);
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_trabajo").ToString("D7");
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_trabajo").Result).ToString("D7");
         }
 
         private void Label2_MouseEnter(object sender, EventArgs e)

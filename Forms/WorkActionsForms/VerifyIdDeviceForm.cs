@@ -51,7 +51,6 @@ namespace SystemIventory.Forms.Acciones
                 {
                     data_revision.Rows[item.Index].DefaultCellStyle.BackColor = System.Drawing.Color.LightGreen;
                     data_revision.FirstDisplayedScrollingRowIndex = item.Index;
-                    //item.Selected = true;
                     estado = true;
                     break;
                 }
@@ -63,7 +62,7 @@ namespace SystemIventory.Forms.Acciones
             }
             else
             {
-                textBox1.Text = String.Empty;
+                textBox1.Text = string.Empty;
             }
         }
 

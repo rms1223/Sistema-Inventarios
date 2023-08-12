@@ -1,6 +1,8 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.Acciones
 {
@@ -9,7 +11,7 @@ namespace SystemIventory.Forms.Acciones
         private Label _orden;
         private TextBox _institucion;
         private TextBox _ordenTextBox;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataTableModel _dataTableModel;
         private string tipo_consulta = "operaciones";
         private int cod_accion = 0;
         private VerifyIdDeviceForm _revisionPlacas;
@@ -18,40 +20,39 @@ namespace SystemIventory.Forms.Acciones
         {
             InitializeComponent();
             _typeOrder = tipo;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(0, _typeOrder);
+            _dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = _dataTableModel.GetInfromationWokActionFromType(0, _typeOrder).Result;
             _orden = orden_tra;
             _institucion = institu;
         }
-        public SearchWorkAction(TextBox box_orden, string tipo)
+        public SearchWorkAction(TextBox box_orden, string _typeOrder)
         {
             InitializeComponent();
-            _typeOrder = tipo;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(0, _typeOrder);
+            _dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = _dataTableModel.GetInfromationWokActionFromType(0, _typeOrder).Result;
             _ordenTextBox = box_orden;
         }
         public SearchWorkAction(Label box_orden, string tipo)
         {
             InitializeComponent();
+            _dataTableModel = DataTableModel.Get_Instance;
             _typeOrder = tipo;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(0, _typeOrder);
+            dataGridView1.DataSource = _dataTableModel.GetInfromationWokActionFromType(0, _typeOrder).Result;
             _orden = box_orden;
         }
         public SearchWorkAction(VerifyIdDeviceForm  revision)
         {
             InitializeComponent();
+            _dataTableModel = DataTableModel.Get_Instance;
             _revisionPlacas = revision;
             tipo_consulta = "revision_placas";
             _typeOrder = VariablesName.OutputOrder;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(0,VariablesName.OutputOrder);
+            dataGridView1.DataSource = _dataTableModel.GetInfromationWokActionFromType(0,VariablesName.OutputOrder).Result;
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetInfromationWokActionFromType(Convert.ToInt32(txt_orden.Text), _typeOrder);
+            dataGridView1.DataSource = _dataTableModel.GetInfromationWokActionFromType(Convert.ToInt32(txt_orden.Text), _typeOrder).Result;
         }
 
         private void XToolStripMenuItem_Click(object sender, EventArgs e)
@@ -63,7 +64,7 @@ namespace SystemIventory.Forms.Acciones
         {
             foreach (DataGridViewRow item in dataGridView1.SelectedRows)
             {
-                if (!String.IsNullOrEmpty(item.Cells["Accion"].Value.ToString()))
+                if (!string.IsNullOrEmpty(item.Cells["Accion"].Value.ToString()))
                 {
                     cod_accion = Convert.ToInt32(item.Cells["Accion"].Value.ToString());
                     if (_orden != null)
@@ -97,7 +98,7 @@ namespace SystemIventory.Forms.Acciones
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetDataListInstitutionFromWorkAction(txt_institucion.Text, "Institucion_Accion");
+            dataGridView1.DataSource = _dataTableModel.GetDataListInstitutionFromWorkAction(txt_institucion.Text, "Institucion_Accion").Result;
         }
 
         public int GetCodeWorkAction()

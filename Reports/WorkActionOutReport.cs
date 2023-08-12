@@ -3,6 +3,8 @@ using SystemIventory.Classes.DataBase;
 using Microsoft.Reporting.WinForms;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Reports
 {
@@ -10,13 +12,13 @@ namespace SystemIventory.Reports
     {
         string num_orden = string.Empty;
         private DataReports _dataReports;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         public WorkActionOutReport(string orden)
         {
             InitializeComponent();
             num_orden = orden;
             textBox1.Text = num_orden;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             
         }
 
@@ -40,7 +42,7 @@ namespace SystemIventory.Reports
                 {
 
                     new ReportParameter("fecha", DateTime.Now.ToString("dd/MM/yyyy")),
-                    new ReportParameter("Descripcion", _mysqlConnectionDatabase.GetDescriptionOutputOrderFromIdOrder(orden)),
+                    new ReportParameter("Descripcion", (string)_dataBaseRepository.GetDescriptionOutputOrderFromIdOrder(orden).Result),
                     new ReportParameter("Orden",orden.ToString("D7")),
                 }
                 };

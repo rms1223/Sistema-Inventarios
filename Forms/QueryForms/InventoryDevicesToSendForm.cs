@@ -1,27 +1,27 @@
-﻿using SystemIventory.Classes;
-using SystemIventory.Classes.Entities;
+﻿using SystemIventory.Classes.Entities;
 using SystemIventory.Forms.Consultas;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.AdministrativesForms
 {
     public partial class InventoryDevicesToSendForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private InstalledDevice _devices;
 
         public InventoryDevicesToSendForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            _mysqlConnectionDatabase.VerifyDatabaseConnection();
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
         }
 
         private void Buscar_Click(object sender, EventArgs e)
         {
-            _devices = _mysqlConnectionDatabase.GetDevicesInInstitutionFromCode(txt_buscar.Text, "ADMINISTRATIVO", Convert.ToInt32(num_orden.Text)) ;
-            label7.Text = _mysqlConnectionDatabase.GetInstitutionCode(txt_buscar.Text, "consulta");
+            _devices = (InstalledDevice)_dataBaseRepository.GetDevicesInInstitutionFromCode(txt_buscar.Text, "ADMINISTRATIVO", Convert.ToInt32(num_orden.Text)).Result ;
+            label7.Text = (string)_dataBaseRepository.GetInstitutionCode(txt_buscar.Text, "consulta").Result;
             LoadData();
         }
 

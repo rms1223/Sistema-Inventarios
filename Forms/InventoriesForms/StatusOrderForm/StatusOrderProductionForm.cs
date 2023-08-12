@@ -1,17 +1,20 @@
-﻿using SystemIventory.Classes;
-using System;
+﻿using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms.estado_ordenes
 {
     public partial class StatusOrderProductionForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataTableModel _dataTableModel;
+        private IDataBaseRepository _dataBaseRepository;
         private string rol_usuario;
         public StatusOrderProductionForm(string rol)
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _dataTableModel = DataTableModel.Get_Instance;
             GetDataOrder();
             rol_usuario = rol;
             if (rol.Equals("AAI2019")|| rol.Equals("ATI2019"))
@@ -23,7 +26,7 @@ namespace SystemIventory.Forms.InventoriesForms.estado_ordenes
         {
             try
             {
-                if (_mysqlConnectionDatabase.UpdateStatusWorkActionInProduction(Convert.ToInt32(label2.Text), comboBox1.SelectedItem.ToString()))
+                if (_dataBaseRepository.UpdateStatusWorkActionInProduction(Convert.ToInt32(label2.Text), comboBox1.SelectedItem.ToString()).StatusQuery)
                 {
                     GetDataOrder();
                 }
@@ -39,8 +42,8 @@ namespace SystemIventory.Forms.InventoriesForms.estado_ordenes
 
         private void GetDataOrder()
         {
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetStatusWorkActionInProduction("PENDIENTE");
-            dataGridView2.DataSource = _mysqlConnectionDatabase.GetStatusWorkActionInProduction("EN PROCESO");
+            dataGridView1.DataSource = _dataTableModel.GetStatusWorkActionInProduction("PENDIENTE").Result;
+            dataGridView2.DataSource = _dataTableModel.GetStatusWorkActionInProduction("EN PROCESO").Result;
         }
 
         private void DataGridView1_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)

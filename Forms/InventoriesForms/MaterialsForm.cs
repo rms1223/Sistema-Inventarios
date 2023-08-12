@@ -2,25 +2,28 @@
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
+using System.Collections;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
     public partial class MaterialsForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        //private MysqlDatabaseRepository _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private AutoCompleteStringCollection _dataCollection;
         public MaterialsForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             _dataCollection = new AutoCompleteStringCollection();
             comboBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
 
             ingreso_materiales.ColumnCount = 2;
             ingreso_materiales.Columns[0].Name = "Descripcion_Material";
             ingreso_materiales.Columns[1].Name = "Cantidad";
-            //orden_trabajo.Text = accion;
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_materiales").ToString("D7");
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_materiales").Result).ToString("D7");
             Cargar_Inventario_Materiales();
             descripcion.Text = "INGRESO COMPRA DE MATERIALES";
             comboBox1.AutoCompleteCustomSource = _dataCollection;
@@ -28,7 +31,7 @@ namespace SystemIventory.Forms.InventoriesForms
 
         public void Cargar_Inventario_Materiales()
         {
-            List<string> materiales = _mysqlConnectionDatabase.GetListMaterials();
+            List<string> materiales = (List<string>)_dataBaseRepository.GetListMaterials().Result;
 
             foreach (var item in materiales)
             {
@@ -85,11 +88,11 @@ namespace SystemIventory.Forms.InventoriesForms
             ingreso_materiales.AllowUserToAddRows = false;
             if (ingreso_materiales.RowCount>0)
             {
-                _mysqlConnectionDatabase.SaveNewOrderMaterialsWorkAction(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
+                _dataBaseRepository.SaveNewOrderMaterialsWorkAction(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
 
                 foreach (DataGridViewRow item in ingreso_materiales.Rows)
                 {
-                    _mysqlConnectionDatabase.UpdateNewOrderMaterialsWorkAction(item.Cells["Descripcion_Material"].Value.ToString(), Convert.ToInt32(item.Cells["Cantidad"].Value.ToString()), Convert.ToInt32(orden_trabajo.Text));
+                    _dataBaseRepository.UpdateNewOrderMaterialsWorkAction(item.Cells["Descripcion_Material"].Value.ToString(), Convert.ToInt32(item.Cells["Cantidad"].Value.ToString()), Convert.ToInt32(orden_trabajo.Text));
                 }
                 MessageBox.Show("Datos Guardados", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ingreso_materiales.Rows.Clear();

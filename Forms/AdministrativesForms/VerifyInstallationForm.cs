@@ -1,20 +1,23 @@
-﻿using SystemIventory.Classes;
+﻿
 using SystemIventory.Classes.Entities;
 using System;
 using System.Drawing;
 using System.Net;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.AdministrativesForms
 {
     public partial class VerifyInstallationForm : Form
     {
         private string url_image = string.Empty;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
+
         public VerifyInstallationForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             download_photo.Visible = false;
 
         }
@@ -26,7 +29,7 @@ namespace SystemIventory.Forms.AdministrativesForms
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            Installation insta = _mysqlConnectionDatabase.GetAllInformationInInstitutionFromCode(codigo.Text);
+            Installation insta = (Installation)_dataBaseRepository.GetAllInformationInInstitutionFromCode(codigo.Text).Result;
 
             cod_pre.Text = insta.Codigo_pre;
             cant_ap.Text = Convert.ToString(insta.Cantidad_aps);
@@ -74,7 +77,7 @@ namespace SystemIventory.Forms.AdministrativesForms
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al guaradar Archivo\n"+ex);
+                MessageBox.Show($"Error al guaradar Archivo\n { ex }");
             }
 
         }

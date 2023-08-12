@@ -4,12 +4,15 @@ using SystemIventory.Forms.Acciones;
 using System;
 using System.IO;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
     public partial class RegisterDeviceForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private OperationsRepository _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private DataOperationDocument _dataOperationDocument;
         public RegisterDeviceForm()
         {
@@ -17,7 +20,8 @@ namespace SystemIventory.Forms.InventoriesForms
             numericUpDown1.Maximum = 10000;
             numericUpDown1.Visible = false;
             numericUpDown1.Value = 9;
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             _dataOperationDocument = new DataOperationDocument(datos_equipos);
             _dataOperationDocument.LoadDataNewDeviceInDatagridview();
             _mysqlConnectionDatabase.GetAllLotes();
@@ -25,7 +29,7 @@ namespace SystemIventory.Forms.InventoriesForms
             {
                 comboBox1.Items.Add(item);
             }
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_trabajo").ToString("D7");
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_trabajo").Result).ToString("D7");
             descripcionorden.Text = "INGRESO EQUIPOS NUEVOS";
 
         }

@@ -13,6 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
     <PublishUrl>D:\Escritorio\InventarioFod\ejecutable\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -28,7 +29,6 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -115,6 +115,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\IModels\DataSetModel.cs" />
+    <Compile Include="Classes\IModels\IDataBaseRepository.cs" />
+    <Compile Include="Classes\IModels\IDataSetModel.cs" />
+    <Compile Include="Classes\IModels\IDataTableModel.cs" />
+    <Compile Include="Classes\Models\DataBaseRepository.cs" />
+    <Compile Include="Classes\Models\DataTableModel.cs" />
+    <Compile Include="Classes\Models\UnitCostMaterial.cs" />
+    <Compile Include="Classes\Models\User.cs" />
+    <Compile Include="Classes\IModels\IConnection.cs" />
+    <Compile Include="Classes\IModels\IPanel.cs" />
+    <Compile Include="Classes\IModels\IReequipamiento.cs" />
+    <Compile Include="Classes\Models\DbConnection.cs" />
+    <Compile Include="Classes\Models\PanelMenu.cs" />
+    <Compile Include="Classes\Models\WorkActionMaterial.cs" />
+    <Compile Include="Classes\ResponseQuery.cs" />
     <Compile Include="Load.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -314,7 +329,7 @@
       <DependentUpon>AddInstitutionForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Classes\DataBase\DataOperationDocument.cs" />
-    <Compile Include="Classes\DataBase\ConnectionMysqlDatabase.cs" />
+    <Compile Include="Classes\DataBase\OperationsRepository.cs" />
     <Compile Include="Forms\InventoriesForms\EntryOrderDeviceForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -542,7 +557,7 @@
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
       <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">

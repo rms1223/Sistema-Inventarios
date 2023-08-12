@@ -6,8 +6,8 @@ namespace SystemIventory.Classes.DataBase
     {
         public string MailTo { get; set; }
         public string MailFrom { get; set; }
-        public List<MailAddress> listMailCc { get; set; }
-        public List<Attachment> listAttachments { get; set; }
+        public List<MailAddress> listMailCc { get; set; } = new List<MailAddress>();
+        public List<Attachment> listAttachments { get; set; } = new List<Attachment>();
         public string MailSubject { get; set; }
         public string MailMessage { get; set; }
 
@@ -20,8 +20,7 @@ namespace SystemIventory.Classes.DataBase
         }
         public Mail()
         {
-            listMailCc = new List<MailAddress>();
-            listAttachments = new List<Attachment>();
+           
         }
     }
 }

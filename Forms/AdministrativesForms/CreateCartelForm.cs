@@ -1,28 +1,30 @@
-﻿using SystemIventory.Classes;
+﻿
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.AdministrativesForms
 {
     public partial class CreateCartelForm : Form
     {
-        private ConnectionMysqlDatabase baseDatos;
+        private IDataBaseRepository _dataBaseRepository;
         public CreateCartelForm()
         {
             InitializeComponent();
-            baseDatos = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            bool estado = baseDatos.RegisterNewCartel(idCartel.Text,descripcion.Text,DateTime.Now.ToString());
-            if (estado)
+            var response = _dataBaseRepository.RegisterNewCartel(idCartel.Text,descripcion.Text,DateTime.Now.ToString());
+            if (response.StatusQuery)
             {
                 MessageBox.Show("Datos Registrados", "Registro Cartel", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show("Error al Registrar datos", "Registro Cartel", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Error al Registrar datos { response.MessageQuery }", "Registro Cartel", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
                 
         }

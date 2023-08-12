@@ -2,17 +2,22 @@
 using SystemIventory.Classes.Entities.Security;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.Entities;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
+using System.Collections.Generic;
 
 namespace SystemIventory.Forms.InventoriesForms.usuarios
 {
     public partial class AddUserForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         public AddUserForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            foreach (var item in _mysqlConnectionDatabase.GetRoles())
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            List<string> listRols = (List<string>)_dataBaseRepository.GetRoles().Result;
+            foreach (var item in listRols)
             {
                 rol.Items.Add(item);
             }
@@ -26,7 +31,13 @@ namespace SystemIventory.Forms.InventoriesForms.usuarios
         private void Button1_Click(object sender, EventArgs e)
         {
            string pass_val = UserSecurity.ProcessPasswordUser(pass.Text);
-           bool estado= _mysqlConnectionDatabase.SaveUserSystem(user.Text, pass_val,rol.SelectedItem.ToString());
+            User userLogin = new User 
+            {
+                UserName = user.Text,
+                Password = pass_val,
+                Rol = rol.SelectedItem.ToString()
+            }; 
+            bool estado= _dataBaseRepository.SaveUserSystem(userLogin).StatusQuery;
             if (estado)
             {
                 MessageBox.Show("Datos Guardados", "Opciones Guardado", MessageBoxButtons.OK, MessageBoxIcon.Information);

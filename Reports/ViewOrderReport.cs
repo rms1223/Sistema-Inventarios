@@ -1,20 +1,21 @@
-﻿using SystemIventory.Classes;
-using SystemIventory.Classes.DataBase;
+﻿using SystemIventory.Classes.DataBase;
 using Microsoft.Reporting.WinForms;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Reports
 {
     public partial class ViewOrderReport : Form
     {
         private DataReports _dataReports;
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         string _idOrder = string.Empty;
         public ViewOrderReport(string orden)
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
             _idOrder = orden;
             LoadQueryReport();
         }
@@ -39,7 +40,7 @@ namespace SystemIventory.Reports
                     GetParameters = new ReportParameter[]
                 {
                     new ReportParameter("fecha", DateTime.Now.ToString("dd/MM/yyyy")),
-                    new ReportParameter("institucion",_mysqlConnectionDatabase.GetDescriptionWorkActionFromId(Convert.ToInt32(_idOrder)))
+                    new ReportParameter("institucion",_dataBaseRepository.GetDescriptionWorkActionFromId(Convert.ToInt32(_idOrder)).Result.ToString())
                 }
                 };
                 _dataReports.GetDataOrderReport(Convert.ToInt32(_idOrder), "ADMINISTRATIVO");

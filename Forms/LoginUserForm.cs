@@ -3,12 +3,15 @@ using SystemIventory.Classes.Entities.Security;
 using SystemIventory.Classes.DataBase;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.Entities;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms
 {
     public partial class LoginUserForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         public int xClick = 0, yClick = 0;
         public LoginUserForm()
         {
@@ -16,7 +19,6 @@ namespace SystemIventory.Forms
             _typeSystem.SelectedIndex = 0;
             _nameSystem.Text = "RMS " + DateTime.Now.ToString("yyyy");
             _ = new OperationsFileXlm();
-
             error_login.Visible = false;
         }
 
@@ -45,23 +47,26 @@ namespace SystemIventory.Forms
                     {
                         VariablesName.TypeDatabase = VariablesName.OldSystem;
                     }
-
-                    _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-
-                    string rol_usuario = _mysqlConnectionDatabase.GetRolSystemFromIdUser(select_user.SelectedItem.ToString(), UserSecurity.ProcessPasswordUser(pass.Text));
+                    _dataBaseRepository = DataBaseRepository.Get_Instance;
+                    var userRol = new User
+                    {
+                        UserName = select_user.SelectedItem.ToString(),
+                        Password = UserSecurity.ProcessPasswordUser(pass.Text)
+                    };
+                    string rol_usuario = (string)_dataBaseRepository.GetRolSystemFromIdUser( userRol ).Result;
 
                     
-                    /*if (string.IsNullOrEmpty(rol_usuario))
+                    if (string.IsNullOrEmpty(rol_usuario))
                     {
                         error_login.Visible = true;
                     }
                     else
-                    {*/
+                    {
                         this.Hide();
-                    MainMenuForm menuPrincipal = new MainMenuForm(this, "ABI2019");//rol_usuario);
+                    MainMenuForm menuPrincipal = new MainMenuForm(this, rol_usuario);
                         menuPrincipal.Show();
 
-                    //}
+                    }
                     
                 }
                 else

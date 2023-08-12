@@ -2,14 +2,16 @@
 using SystemIventory.Forms.InventoriesForms.usuarios;
 using System;
 using System.Collections.Generic;
-
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
     public partial class OrderOutputMaterials : Form
     {
-        private readonly ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private readonly OperationsRepository _mysqlConnectionDatabase;
+        private IDataBaseRepository _dataBaseRepository;
         private AutoCompleteStringCollection _dataCollection;
         public OrderOutputMaterials()
         {
@@ -21,9 +23,10 @@ namespace SystemIventory.Forms.InventoriesForms
             materiales_salida.ColumnCount = 2;
             materiales_salida.Columns[0].Name = "Descripcion_Material";
             materiales_salida.Columns[1].Name = "Cantidad";
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            orden_trabajo.Text = _mysqlConnectionDatabase.GetIdWorkActionFromType("orden_materiales").ToString("D7");
-            List<string> materiales = _mysqlConnectionDatabase.GetListMaterials();
+            _dataBaseRepository = DataBaseRepository.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
+            orden_trabajo.Text = ((int)_dataBaseRepository.GetIdWorkActionFromType("orden_materiales").Result).ToString("D7");
+            List<string> materiales = (List<string>)_dataBaseRepository.GetListMaterials().Result;
             
             foreach (var item in materiales)
             {
@@ -57,7 +60,7 @@ namespace SystemIventory.Forms.InventoriesForms
                 if (Verificar_Datos(descripcion_material.Text, "Descripcion_Material"))
                 {
                     int cantidad_solicitada = Convert.ToInt32(numericUpDown1.Value.ToString());
-                    int cantidad_material = _mysqlConnectionDatabase.GetTotalMaterialsInStockFromDescription(descripcion_material.Text);
+                    int cantidad_material = (int)_dataBaseRepository.GetTotalMaterialsInStockFromDescription(descripcion_material.Text).Result;
 
                     if (En_Stock(cantidad_material, cantidad_solicitada))
                     {
@@ -124,13 +127,13 @@ namespace SystemIventory.Forms.InventoriesForms
                 if (!string.IsNullOrEmpty(tecnicos.SelectedItem.ToString()))
                 {
                     materiales_salida.AllowUserToAddRows = false;
-                    _mysqlConnectionDatabase.SaveNewOrderMaterialsWorkAction(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
+                    _dataBaseRepository.SaveNewOrderMaterialsWorkAction(Convert.ToInt32(orden_trabajo.Text), descripcion.Text);
 
 
                     foreach (DataGridViewRow item in materiales_salida.Rows)
                     {
                         int cantidad = Convert.ToInt32(item.Cells["Cantidad"].Value.ToString());
-                        _mysqlConnectionDatabase.SaveNewOrderMaterialsForTecnicals(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), tecnicos.SelectedItem.ToString());
+                        _dataBaseRepository.SaveNewOrderMaterialsForTecnicals(item.Cells["Descripcion_Material"].Value.ToString(), cantidad, Convert.ToInt32(orden_trabajo.Text), tecnicos.SelectedItem.ToString());
                     }
                     MessageBox.Show("Datos Guardados", "Opciones Materiales", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     materiales_salida.Rows.Clear();

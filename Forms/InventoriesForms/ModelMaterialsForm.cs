@@ -1,6 +1,8 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.InventoriesForms
 {
@@ -11,8 +13,8 @@ namespace SystemIventory.Forms.InventoriesForms
         public ModelMaterialsForm(Label tipo, Label nom)
         {
             InitializeComponent();
-            ConnectionMysqlDatabase _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
-            dataGridView1.DataSource = _mysqlConnectionDatabase.GetAllTypeMaterials();
+            IDataTableModel dataTableModel = DataTableModel.Get_Instance;
+            dataGridView1.DataSource = dataTableModel.GetAllTypeMaterials().Result;
             _idText = tipo;
             _modelName = nom;
         }

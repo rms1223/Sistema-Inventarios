@@ -1,18 +1,22 @@
 ﻿using SystemIventory.Classes;
 using System;
 using System.Windows.Forms;
+using SystemInventory.Classes.IModels;
+using SystemInventory.Classes.Models;
 
 namespace SystemIventory.Forms.Consultas.inventarios_materiales
 {
     public partial class MaterialsInventoryForm : Form
     {
-        private ConnectionMysqlDatabase _mysqlConnectionDatabase;
+        private OperationsRepository _mysqlConnectionDatabase;
+        private IDataTableModel _dataTableModel;
         public MaterialsInventoryForm()
         {
             InitializeComponent();
-            _mysqlConnectionDatabase = ConnectionMysqlDatabase.Get_Instance;
+            _mysqlConnectionDatabase = OperationsRepository.Get_Instance;
+            _dataTableModel = DataTableModel.Get_Instance;
             _mysqlConnectionDatabase.VerifyDatabaseConnection();
-            inventario.DataSource = _mysqlConnectionDatabase.GetAllInventoryMaterials();
+            inventario.DataSource = _dataTableModel.GetAllInventoryMaterials().Result;
         }
 
         private void XToolStripMenuItem_Click(object sender, EventArgs e)
