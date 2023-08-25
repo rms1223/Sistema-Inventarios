@@ -15,7 +15,7 @@ namespace SystemIventory.Forms.InventoriesForms
         {
             InitializeComponent();
             _dataBaseRepository = DataBaseRepository.Get_Instance;
-            label2.Text = _dataBaseRepository.GetNextCodeProduct().ToString();
+            label2.Text = _dataBaseRepository.GetNextCodeProduct().Result.ToString();
             var listTypeDevice = (IList)_dataBaseRepository.GetAllTypesDevice().Result;
             foreach (var item in listTypeDevice)
             {

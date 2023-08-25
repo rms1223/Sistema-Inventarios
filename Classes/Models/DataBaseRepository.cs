@@ -22,6 +22,8 @@ namespace SystemInventory.Classes.Models
         {
             _connection = new DbConnection();
             _mysqlConnection = _connection.GetConnection();
+
+            
         }
         public static DataBaseRepository Get_Instance
         {
@@ -186,6 +188,7 @@ namespace SystemInventory.Classes.Models
         {
             try
             {
+                _mysqlTrasaction = _mysqlConnection.BeginTransaction();
                 List<string> typeList = new List<string>();
                 using (var _mysqlCommand = new MySqlCommand(Query.MysqlGetAllTypeDevice, _mysqlConnection))
                 {
@@ -193,7 +196,7 @@ namespace SystemInventory.Classes.Models
                     {
                         while (lector.Read())
                         {
-                            typeList.Add(lector["id_tipo"].ToString() + "-" + lector["tipo_equipo"].ToString());
+                            typeList.Add(lector["codigo_modelo"].ToString() + "-" + lector["tipo_equipo"].ToString());
 
                         }
                     }

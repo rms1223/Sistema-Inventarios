@@ -56,17 +56,17 @@ namespace SystemIventory.Forms
                     string rol_usuario = (string)_dataBaseRepository.GetRolSystemFromIdUser( userRol ).Result;
 
                     
-                    if (string.IsNullOrEmpty(rol_usuario))
+                    /*if (string.IsNullOrEmpty(rol_usuario))
                     {
                         error_login.Visible = true;
                     }
                     else
-                    {
+                    {*/
                         this.Hide();
-                    MainMenuForm menuPrincipal = new MainMenuForm(this, rol_usuario);
+                    MainMenuForm menuPrincipal = new MainMenuForm(this, "ABI2019");//rol_usuario);
                         menuPrincipal.Show();
 
-                    }
+                    //}
                     
                 }
                 else
